@@ -1,0 +1,3336 @@
+Frame # 0
+detected new curve left_curverad: 710.203837054  right_curverad: 1120.13109946
+[MoviePy] >>>> Building video project_video_output.mp4
+[MoviePy] Writing video project_video_output.mp4
+Frame # 1
+detected curve left_curverad: 719.055380651  right_curverad: 1167.32179896
+detected adjusted curve left_curverad: 714.602180309  right_curverad: 1143.23946581
+Frame # 2
+detected curve left_curverad: 694.251098741  right_curverad: 1421.46896666
+detected adjusted curve left_curverad: 707.687195995  right_curverad: 1223.0315736
+Frame # 3
+detected curve left_curverad: 662.931477962  right_curverad: 820.50917411
+detected adjusted curve left_curverad: 695.941027104  right_curverad: 1089.41607808
+Frame # 4
+detected curve left_curverad: 640.039950671  right_curverad: 746.566530318
+detected adjusted curve left_curverad: 683.992964323  right_curverad: 997.771311542
+Frame # 5
+detected curve left_curverad: 658.057463692  right_curverad: 775.780384504
+detected adjusted curve left_curverad: 673.709576388  right_curverad: 924.651660939
+Frame # 6
+detected curve left_curverad: 654.160520883  right_curverad: 880.503217199
+detected adjusted curve left_curverad: 661.41405921  right_curverad: 879.274860819
+Frame # 7
+detected curve left_curverad: 700.391802147  right_curverad: 1052.06367254
+detected adjusted curve left_curverad: 662.519665992  right_curverad: 842.666769782
+Frame # 8
+detected curve left_curverad: 731.65018324  right_curverad: 7587.91911142
+detected bad curve left_curverad: 731.65018324  right_curverad: 7587.91911142
+Frame # 9
+detected new curve left_curverad: 775.685195213  right_curverad: 200202.140382
+Frame # 10
+detected curve left_curverad: 812.079260911  right_curverad: 2245.48579387
+detected adjusted curve left_curverad: 793.464729205  right_curverad: 4540.65378183
+Frame # 11
+detected curve left_curverad: 825.152899121  right_curverad: 2173.31899696
+detected adjusted curve left_curverad: 803.75330204  right_curverad: 3330.97003622
+Frame # 12
+detected curve left_curverad: 897.581571605  right_curverad: 1625.43857349
+detected adjusted curve left_curverad: 825.321319813  right_curverad: 2638.76067175
+Frame # 13
+detected curve left_curverad: 1029.42760966  right_curverad: 9690.06486001
+detected bad curve left_curverad: 1029.42760966  right_curverad: 9690.06486001
+Frame # 14
+detected new curve left_curverad: 972.153462575  right_curverad: 5210.10842345
+Frame # 15
+detected curve left_curverad: 1004.51033491  right_curverad: 1855.33343707
+detected adjusted curve left_curverad: 988.067090652  right_curverad: 2736.30959379
+Frame # 16
+detected curve left_curverad: 1005.05952461  right_curverad: 1103.47207456
+detected adjusted curve left_curverad: 993.666956291  right_curverad: 1832.4985085
+Frame # 17
+detected curve left_curverad: 1065.64008032  right_curverad: 1084.45949928
+left_meanx: 311.336070586   right_meanx: 947.300212643    diff: 635.964142056
+Frame # 18
+detected new curve left_curverad: 1139.40802741  right_curverad: 972.356348532
+Frame # 19
+detected curve left_curverad: 1176.34955073  right_curverad: 1224.47768852
+left_meanx: 309.037974138   right_meanx: 940.134972678    diff: 631.09699854
+Frame # 20
+detected new curve left_curverad: 1288.24240608  right_curverad: 1273.45922024
+Frame # 21
+detected curve left_curverad: 1519.22871691  right_curverad: 2833.30985998
+detected adjusted curve left_curverad: 1394.23776466  right_curverad: 1757.19297155
+Frame # 22
+detected curve left_curverad: 1466.33137781  right_curverad: 5642.79819049
+detected bad curve left_curverad: 1466.33137781  right_curverad: 5642.79819049
+Frame # 23
+detected new curve left_curverad: 1387.94204333  right_curverad: 3040.86013517
+Frame # 24
+detected curve left_curverad: 1241.34891743  right_curverad: 9651.66359515
+detected bad curve left_curverad: 1241.34891743  right_curverad: 9651.66359515
+Frame # 25
+detected new curve left_curverad: 1031.27831316  right_curverad: 1323.52956918
+Frame # 26
+detected curve left_curverad: 1045.77063279  right_curverad: 1647.00081511
+left_meanx: 296.538642152   right_meanx: 975.06129165    diff: 678.522649497
+Frame # 27
+detected new curve left_curverad: 936.974965833  right_curverad: 1205.02396404
+Frame # 28
+detected curve left_curverad: 962.887301331  right_curverad: 1599.07243877
+left_meanx: 293.92916007   right_meanx: 989.557041096    diff: 695.627881026
+Frame # 29
+detected new curve left_curverad: 921.646027883  right_curverad: 1280.478257
+Frame # 30
+detected curve left_curverad: 827.801741101  right_curverad: 782.203366264
+left_meanx: 300.027567658   right_meanx: 980.714061178    diff: 680.686493519
+Frame # 31
+detected new curve left_curverad: 793.053838981  right_curverad: 777.765952057
+Frame # 32
+detected curve left_curverad: 695.455859597  right_curverad: 833.917676633
+left_meanx: 307.995179551   right_meanx: 946.944208611    diff: 638.949029061
+Frame # 33
+detected new curve left_curverad: 716.081022476  right_curverad: 1014.85223401
+Frame # 34
+detected curve left_curverad: 699.504713812  right_curverad: 1682.43312586
+detected adjusted curve left_curverad: 707.695815813  right_curverad: 1266.03083052
+Frame # 35
+detected curve left_curverad: 659.863398998  right_curverad: 2281.20540755
+detected adjusted curve left_curverad: 690.999212371  right_curverad: 1486.55993719
+Frame # 36
+detected curve left_curverad: 625.06523656  right_curverad: 1753.43438258
+detected adjusted curve left_curverad: 673.244811971  right_curverad: 1545.36227965
+Frame # 37
+detected curve left_curverad: 576.722780955  right_curverad: 1270.71492419
+detected adjusted curve left_curverad: 651.438322337  right_curverad: 1481.32992672
+Frame # 38
+detected curve left_curverad: 545.606979781  right_curverad: 1394.91391672
+detected adjusted curve left_curverad: 616.396248837  right_curverad: 1609.33284564
+Frame # 39
+detected curve left_curverad: 519.409081453  right_curverad: 813.141814331
+detected adjusted curve left_curverad: 580.898792648  right_curverad: 1336.09421625
+Frame # 40
+detected curve left_curverad: 523.719819623  right_curverad: 661.665342013
+detected adjusted curve left_curverad: 555.475929265  right_curverad: 1038.36600452
+Frame # 41
+detected curve left_curverad: 508.481345547  right_curverad: 670.735367927
+left_meanx: 310.142857143   right_meanx: 946.548076923    diff: 636.40521978
+Frame # 42
+detected new curve left_curverad: 509.629797956  right_curverad: 697.696233511
+Frame # 43
+detected curve left_curverad: 526.444068717  right_curverad: 703.8079126
+left_meanx: 308.073317527   right_meanx: 944.978524837    diff: 636.90520731
+Frame # 44
+detected new curve left_curverad: 541.184988913  right_curverad: 700.234042246
+Frame # 45
+detected curve left_curverad: 558.525837815  right_curverad: 755.329767017
+detected adjusted curve left_curverad: 549.718314575  right_curverad: 726.738701581
+Frame # 46
+detected curve left_curverad: 600.007139461  right_curverad: 968.008785048
+detected adjusted curve left_curverad: 565.516628854  right_curverad: 792.584921537
+Frame # 47
+detected curve left_curverad: 637.005174402  right_curverad: 965.247814113
+detected adjusted curve left_curverad: 581.839805065  right_curverad: 829.687978884
+Frame # 48
+detected curve left_curverad: 630.658606234  right_curverad: 1302.30093681
+detected adjusted curve left_curverad: 590.988790951  right_curverad: 894.617082735
+Frame # 49
+detected curve left_curverad: 684.065254824  right_curverad: 1913.95466345
+detected adjusted curve left_curverad: 619.238178463  right_curverad: 1067.61776165
+Frame # 50
+detected curve left_curverad: 720.602654156  right_curverad: 1174.583766
+detected adjusted curve left_curverad: 651.743833357  right_curverad: 1187.43583249
+Frame # 51
+detected curve left_curverad: 796.320847987  right_curverad: 1091.16285665
+detected adjusted curve left_curverad: 688.625074236  right_curverad: 1221.25165567
+Frame # 52
+detected curve left_curverad: 866.993973855  right_curverad: 1233.48660603
+detected adjusted curve left_curverad: 730.524735248  right_curverad: 1292.36835388
+Frame # 53
+detected curve left_curverad: 912.345843062  right_curverad: 784.8384003
+detected adjusted curve left_curverad: 786.804766556  right_curverad: 1142.8231759
+Frame # 54
+detected curve left_curverad: 946.841434188  right_curverad: 711.75702353
+detected adjusted curve left_curverad: 840.46157736  right_curverad: 950.996278206
+Frame # 55
+detected curve left_curverad: 1091.93653517  right_curverad: 672.354055701
+detected adjusted curve left_curverad: 912.877634232  right_curverad: 848.378030325
+Frame # 56
+detected curve left_curverad: 1202.72034235  right_curverad: 715.335724716
+detected adjusted curve left_curverad: 989.540438962  right_curverad: 784.30173132
+Frame # 57
+detected curve left_curverad: 1287.57387127  right_curverad: 821.308547177
+detected adjusted curve left_curverad: 1069.26947338  right_curverad: 737.250049026
+Frame # 58
+detected curve left_curverad: 1330.71297319  right_curverad: 1206.24576761
+detected adjusted curve left_curverad: 1154.33495125  right_curverad: 789.034948178
+Frame # 59
+detected curve left_curverad: 1122.15805794  right_curverad: 969.658153752
+left_meanx: 295.532233758   right_meanx: 929.353278766    diff: 633.821045008
+Frame # 60
+detected new curve left_curverad: 1033.06390045  right_curverad: 866.929639444
+Frame # 61
+detected curve left_curverad: 989.026370821  right_curverad: 1598.87304225
+left_meanx: 298.936651009   right_meanx: 927.267452007    diff: 628.330800998
+Frame # 62
+detected new curve left_curverad: 842.096182993  right_curverad: 909.781550777
+Frame # 63
+detected curve left_curverad: 839.183995  right_curverad: 2671.43354446
+left_meanx: 298.993910378   right_meanx: 933.425467643    diff: 634.431557265
+Frame # 64
+detected new curve left_curverad: 760.221256237  right_curverad: 676.774532343
+Frame # 65
+detected curve left_curverad: 792.284523317  right_curverad: 851.316005244
+left_meanx: 300.475349272   right_meanx: 931.402525307    diff: 630.927176036
+Frame # 66
+detected new curve left_curverad: 758.507348755  right_curverad: 939.56213603
+Frame # 67
+detected curve left_curverad: 710.6949135  right_curverad: 992.61914457
+left_meanx: 303.759716986   right_meanx: 925.225773407    diff: 621.466056422
+Frame # 68
+detected new curve left_curverad: 768.300199294  right_curverad: 1009.63387578
+Frame # 69
+detected curve left_curverad: 774.35391619  right_curverad: 1084.03437324
+left_meanx: 303.752918562   right_meanx: 920.127816244    diff: 616.374897682
+Frame # 70
+detected new curve left_curverad: 824.004718478  right_curverad: 1049.09907195
+Frame # 71
+detected curve left_curverad: 996.765143255  right_curverad: 1143.49754625
+left_meanx: 297.487878301   right_meanx: 922.040755762    diff: 624.552877461
+Frame # 72
+detected new curve left_curverad: 1065.82868632  right_curverad: 763.900642579
+Frame # 73
+detected curve left_curverad: 1179.75346626  right_curverad: 725.068804894
+left_meanx: 294.006530415   right_meanx: 931.738432874    diff: 637.73190246
+Frame # 74
+detected new curve left_curverad: 1238.24591192  right_curverad: 788.816339234
+Frame # 75
+detected curve left_curverad: 1342.55150961  right_curverad: 936.440903246
+detected adjusted curve left_curverad: 1288.29165362  right_curverad: 856.311587398
+Frame # 76
+detected curve left_curverad: 1489.60234282  right_curverad: 751.180514452
+detected adjusted curve left_curverad: 1349.0661175  right_curverad: 818.142423223
+Frame # 77
+detected curve left_curverad: 1694.57021136  right_curverad: 950.21084306
+detected adjusted curve left_curverad: 1421.52930785  right_curverad: 847.593820886
+Frame # 78
+detected curve left_curverad: 1868.72267965  right_curverad: 893.111775999
+detected adjusted curve left_curverad: 1492.9906431  right_curverad: 856.321363314
+Frame # 79
+detected curve left_curverad: 2101.29449633  right_curverad: 634.291017756
+left_meanx: 283.741500338   right_meanx: 960.354006969    diff: 676.61250663
+Frame # 80
+detected new curve left_curverad: 1768.48587643  right_curverad: 689.79892762
+Frame # 81
+detected curve left_curverad: 2123.76417734  right_curverad: 698.837342129
+detected adjusted curve left_curverad: 1929.91328846  right_curverad: 694.287851279
+Frame # 82
+detected curve left_curverad: 2125.21065274  right_curverad: 726.295028649
+detected adjusted curve left_curverad: 1990.89803542  right_curverad: 704.638467972
+Frame # 83
+detected curve left_curverad: 1831.68187514  right_curverad: 867.71730261
+detected adjusted curve left_curverad: 1948.55547685  right_curverad: 739.372947394
+Frame # 84
+detected curve left_curverad: 2416.65768302  right_curverad: 851.271876626
+detected adjusted curve left_curverad: 2027.08732869  right_curverad: 759.335829628
+Frame # 85
+detected curve left_curverad: 2007.80697731  right_curverad: 1066.57945601
+detected adjusted curve left_curverad: 2084.03321007  right_curverad: 823.37246182
+Frame # 86
+detected curve left_curverad: 1452.94033134  right_curverad: 1187.4363221
+detected adjusted curve left_curverad: 1910.89865811  right_curverad: 911.776559659
+Frame # 87
+detected curve left_curverad: 1112.92954445  right_curverad: 1167.39031276
+detected adjusted curve left_curverad: 1642.29577022  right_curverad: 1007.33969657
+Frame # 88
+detected curve left_curverad: 967.19443978  right_curverad: 1436.47237302
+detected adjusted curve left_curverad: 1415.44010524  right_curverad: 1109.30877313
+Frame # 89
+detected curve left_curverad: 871.395763552  right_curverad: 1295.21179116
+detected adjusted curve left_curverad: 1171.97041921  right_curverad: 1218.14170853
+Frame # 90
+detected curve left_curverad: 746.012403995  right_curverad: 787.42888024
+left_meanx: 300.754735793   right_meanx: 928.084831284    diff: 627.330095491
+Frame # 91
+detected new curve left_curverad: 734.47918862  right_curverad: 764.639480238
+Frame # 92
+detected curve left_curverad: 775.50292253  right_curverad: 810.069969254
+left_meanx: 299.37160203   right_meanx: 933.454941272    diff: 634.083339242
+Frame # 93
+detected new curve left_curverad: 780.379301593  right_curverad: 809.649495517
+Frame # 94
+detected curve left_curverad: 779.436844423  right_curverad: 867.469801165
+left_meanx: 303.900575639   right_meanx: 922.466359093    diff: 618.565783454
+Frame # 95
+detected new curve left_curverad: 827.892660983  right_curverad: 916.629414038
+Frame # 96
+detected curve left_curverad: 962.019035244  right_curverad: 953.923001786
+left_meanx: 302.824200913   right_meanx: 926.787663655    diff: 623.963462742
+Frame # 97
+detected new curve left_curverad: 915.460095786  right_curverad: 926.824882189
+Frame # 98
+detected curve left_curverad: 951.637350937  right_curverad: 996.130144983
+left_meanx: 300.969164391   right_meanx: 938.789713015    diff: 637.820548625
+Frame # 99
+detected new curve left_curverad: 922.759391374  right_curverad: 872.300680038
+Frame # 100
+detected curve left_curverad: 901.951805668  right_curverad: 874.844640892
+detected adjusted curve left_curverad: 912.236951236  right_curverad: 873.570534407
+Frame # 101
+detected curve left_curverad: 910.029731205  right_curverad: 854.896608641
+detected adjusted curve left_curverad: 911.499996222  right_curverad: 867.255714822
+Frame # 102
+detected curve left_curverad: 848.392630232  right_curverad: 835.33190216
+detected adjusted curve left_curverad: 894.858753567  right_curverad: 859.048116388
+Frame # 103
+detected curve left_curverad: 800.223109632  right_curverad: 656.939357496
+detected adjusted curve left_curverad: 874.181790358  right_curverad: 809.248207092
+Frame # 104
+detected curve left_curverad: 787.696337965  right_curverad: 691.094270898
+left_meanx: 305.277602387   right_meanx: 944.239717851    diff: 638.962115464
+Frame # 105
+detected new curve left_curverad: 815.77155486  right_curverad: 724.051321614
+Frame # 106
+detected curve left_curverad: 849.836167212  right_curverad: 743.133798885
+detected adjusted curve left_curverad: 832.45530966  right_curverad: 733.468446885
+Frame # 107
+detected curve left_curverad: 868.749959175  right_curverad: 787.12459742
+detected adjusted curve left_curverad: 844.211536512  right_curverad: 750.522192927
+Frame # 108
+detected curve left_curverad: 808.654578607  right_curverad: 855.693429182
+detected adjusted curve left_curverad: 835.03229964  right_curverad: 774.311223053
+Frame # 109
+detected curve left_curverad: 900.53952032  right_curverad: 1120.69555613
+detected adjusted curve left_curverad: 847.359682902  right_curverad: 825.319050527
+Frame # 110
+detected curve left_curverad: 879.105876821  right_curverad: 1159.66926042
+detected adjusted curve left_curverad: 860.234784387  right_curverad: 902.61084529
+Frame # 111
+detected curve left_curverad: 826.035658216  right_curverad: 1461.59198222
+detected adjusted curve left_curverad: 855.246086946  right_curverad: 1025.00625637
+Frame # 112
+detected curve left_curverad: 831.265439049  right_curverad: 1668.46739621
+detected adjusted curve left_curverad: 847.719620801  right_curverad: 1188.54040137
+Frame # 113
+detected curve left_curverad: 772.145854812  right_curverad: 1167.53554792
+detected adjusted curve left_curverad: 839.398206765  right_curverad: 1283.80626786
+Frame # 114
+detected curve left_curverad: 775.028957916  right_curverad: 972.433335756
+detected adjusted curve left_curverad: 814.799793198  right_curverad: 1240.4716779
+Frame # 115
+detected curve left_curverad: 695.949242257  right_curverad: 933.256780029
+detected adjusted curve left_curverad: 776.8982408  right_curverad: 1179.26485211
+Frame # 116
+detected curve left_curverad: 683.134997796  right_curverad: 571.357347957
+detected adjusted curve left_curverad: 747.485659009  right_curverad: 942.31022576
+Frame # 117
+detected curve left_curverad: 670.43773724  right_curverad: 621.527095995
+detected adjusted curve left_curverad: 716.57200029  right_curverad: 791.676889128
+Frame # 118
+detected curve left_curverad: 681.98511544  right_curverad: 607.038354964
+left_meanx: 313.45298468   right_meanx: 948.668075684    diff: 635.215091004
+Frame # 119
+detected new curve left_curverad: 662.354137472  right_curverad: 598.832639369
+Frame # 120
+detected curve left_curverad: 618.890246195  right_curverad: 644.538065789
+left_meanx: 315.862458026   right_meanx: 939.140520896    diff: 623.278062871
+Frame # 121
+detected new curve left_curverad: 629.337751098  right_curverad: 725.273375796
+Frame # 122
+detected curve left_curverad: 652.923410416  right_curverad: 819.512338323
+left_meanx: 313.539650399   right_meanx: 945.632041394    diff: 632.092390995
+Frame # 123
+detected new curve left_curverad: 620.971853365  right_curverad: 625.83553362
+Frame # 124
+detected curve left_curverad: 623.368418016  right_curverad: 890.874593823
+left_meanx: 316.135037581   right_meanx: 946.083529916    diff: 629.948492335
+Frame # 125
+detected new curve left_curverad: 591.048906682  right_curverad: 943.603402941
+Frame # 126
+detected curve left_curverad: 654.215058359  right_curverad: 1183.163552
+detected adjusted curve left_curverad: 621.028163515  right_curverad: 1049.89206684
+Frame # 127
+detected curve left_curverad: 640.118040366  right_curverad: 653.042074911
+detected adjusted curve left_curverad: 627.263357498  right_curverad: 873.034986975
+Frame # 128
+detected curve left_curverad: 665.621504895  right_curverad: 636.832624766
+detected adjusted curve left_curverad: 636.431764332  right_curverad: 798.943716322
+Frame # 129
+detected curve left_curverad: 655.228038753  right_curverad: 584.018344138
+left_meanx: 316.9251295   right_meanx: 936.024513544    diff: 619.099384045
+Frame # 130
+detected new curve left_curverad: 694.955146507  right_curverad: 591.185323301
+Frame # 131
+detected curve left_curverad: 749.019771821  right_curverad: 625.392956998
+left_meanx: 316.652911068   right_meanx: 934.463800038    diff: 617.81088897
+Frame # 132
+detected new curve left_curverad: 746.784463001  right_curverad: 582.722210945
+Frame # 133
+detected curve left_curverad: 775.05916869  right_curverad: 586.741292281
+left_meanx: 318.250391516   right_meanx: 936.683846701    diff: 618.433455185
+Frame # 134
+detected new curve left_curverad: 804.869539762  right_curverad: 500.153647616
+Frame # 135
+detected curve left_curverad: 859.57861854  right_curverad: 533.915188376
+left_meanx: 318.331143724   right_meanx: 942.428050463    diff: 624.096906739
+Frame # 136
+detected new curve left_curverad: 852.200257012  right_curverad: 599.256526701
+Frame # 137
+detected curve left_curverad: 881.231620983  right_curverad: 845.604506357
+left_meanx: 316.676513276   right_meanx: 954.788760865    diff: 638.112247589
+Frame # 138
+detected new curve left_curverad: 887.826849075  right_curverad: 1035.69470518
+Frame # 139
+detected curve left_curverad: 901.890771003  right_curverad: 1119.78552188
+detected adjusted curve left_curverad: 894.803525033  right_curverad: 1076.09984531
+Frame # 140
+detected curve left_curverad: 945.895070926  right_curverad: 1262.44727447
+detected adjusted curve left_curverad: 911.20951932  right_curverad: 1131.78647439
+Frame # 141
+detected curve left_curverad: 917.203242826  right_curverad: 1024.45644766
+detected adjusted curve left_curverad: 912.700586568  right_curverad: 1102.89882249
+Frame # 142
+detected curve left_curverad: 955.428721041  right_curverad: 899.252860712
+detected adjusted curve left_curverad: 920.93774144  right_curverad: 1055.10927879
+Frame # 143
+detected curve left_curverad: 954.576334452  right_curverad: 983.152516668
+detected adjusted curve left_curverad: 934.493933851  right_curverad: 1043.74388862
+Frame # 144
+detected curve left_curverad: 979.096806054  right_curverad: 1000.14587076
+left_meanx: 314.723992441   right_meanx: 951.104360653    diff: 636.380368212
+Frame # 145
+detected new curve left_curverad: 1029.25945437  right_curverad: 1041.29579076
+Frame # 146
+detected curve left_curverad: 1027.01397426  right_curverad: 1540.79401688
+left_meanx: 316.954371439   right_meanx: 953.801684957    diff: 636.847313519
+Frame # 147
+detected new curve left_curverad: 1158.03006956  right_curverad: 651.069519289
+Frame # 148
+detected curve left_curverad: 1052.93155338  right_curverad: 806.445999604
+left_meanx: 321.324953445   right_meanx: 947.409544728    diff: 626.084591283
+Frame # 149
+detected new curve left_curverad: 1004.00563187  right_curverad: 937.584429966
+Frame # 150
+detected curve left_curverad: 1052.32771662  right_curverad: 1401.97945708
+detected adjusted curve left_curverad: 1027.59887287  right_curverad: 1123.69380788
+Frame # 151
+detected curve left_curverad: 1035.29316474  right_curverad: 1392.2107688
+detected adjusted curve left_curverad: 1030.1508963  right_curverad: 1200.90049473
+Frame # 152
+detected curve left_curverad: 1034.77640743  right_curverad: 884.434175881
+detected adjusted curve left_curverad: 1031.30338427  right_curverad: 1102.28793699
+Frame # 153
+detected curve left_curverad: 973.970295904  right_curverad: 686.079544791
+left_meanx: 317.907903467   right_meanx: 957.09197861    diff: 639.184075143
+Frame # 154
+detected new curve left_curverad: 967.179973397  right_curverad: 723.532801722
+Frame # 155
+detected curve left_curverad: 1033.8196575  right_curverad: 750.123106555
+detected adjusted curve left_curverad: 999.389987034  right_curverad: 736.588058191
+Frame # 156
+detected curve left_curverad: 998.770612299  right_curverad: 792.990764869
+detected adjusted curve left_curverad: 999.183405767  right_curverad: 754.475364044
+Frame # 157
+detected curve left_curverad: 960.669616554  right_curverad: 847.713587133
+detected adjusted curve left_curverad: 989.268342828  right_curverad: 775.806372166
+Frame # 158
+detected curve left_curverad: 865.983956726  right_curverad: 984.189220971
+left_meanx: 311.390760098   right_meanx: 945.542431661    diff: 634.151671562
+Frame # 159
+detected new curve left_curverad: 883.101823815  right_curverad: 701.955720968
+Frame # 160
+detected curve left_curverad: 810.041620508  right_curverad: 1128.94391385
+left_meanx: 306.378645008   right_meanx: 946.006469593    diff: 639.627824585
+Frame # 161
+detected new curve left_curverad: 812.384705164  right_curverad: 1139.71416145
+Frame # 162
+detected curve left_curverad: 783.1059264  right_curverad: 2145.3504045
+detected adjusted curve left_curverad: 797.476686726  right_curverad: 1488.62310114
+Frame # 163
+detected curve left_curverad: 761.781651154  right_curverad: 2323.29693245
+detected adjusted curve left_curverad: 785.212385505  right_curverad: 1691.1523312
+Frame # 164
+detected curve left_curverad: 741.633115652  right_curverad: 3793.94391676
+detected adjusted curve left_curverad: 773.844413149  right_curverad: 1963.20249414
+Frame # 165
+detected curve left_curverad: 809.148132375  right_curverad: 813.658467245
+detected adjusted curve left_curverad: 780.656402414  right_curverad: 1530.71190619
+Frame # 166
+detected curve left_curverad: 777.568785957  right_curverad: 965.616150239
+detected adjusted curve left_curverad: 773.995883374  right_curverad: 1460.00960663
+Frame # 167
+detected curve left_curverad: 785.100993562  right_curverad: 815.859864177
+left_meanx: 300.53678774   right_meanx: 936.66441955    diff: 636.12763181
+Frame # 168
+detected new curve left_curverad: 885.973978754  right_curverad: 866.50236319
+Frame # 169
+detected curve left_curverad: 937.136784179  right_curverad: 850.598203931
+detected adjusted curve left_curverad: 910.837429574  right_curverad: 858.47644749
+Frame # 170
+detected curve left_curverad: 1015.45585613  right_curverad: 906.830125051
+detected adjusted curve left_curverad: 943.230166762  right_curverad: 874.010506823
+Frame # 171
+detected curve left_curverad: 1130.63429385  right_curverad: 917.848059481
+detected adjusted curve left_curverad: 984.006802269  right_curverad: 884.571870336
+Frame # 172
+detected curve left_curverad: 1156.84521574  right_curverad: 858.41931962
+detected adjusted curve left_curverad: 1014.31681161  right_curverad: 879.213320723
+Frame # 173
+detected curve left_curverad: 1097.91798109  right_curverad: 588.797045854
+detected adjusted curve left_curverad: 1061.22309875  right_curverad: 802.393905466
+Frame # 174
+detected curve left_curverad: 998.839373544  right_curverad: 530.391793027
+detected adjusted curve left_curverad: 1076.27998634  right_curverad: 720.338135027
+Frame # 175
+detected curve left_curverad: 914.166148484  right_curverad: 472.118740946
+detected adjusted curve left_curverad: 1051.58209483  right_curverad: 628.410090007
+Frame # 176
+detected curve left_curverad: 868.440486975  right_curverad: 349.107473845
+detected adjusted curve left_curverad: 995.665305576  right_curverad: 513.765586881
+Frame # 177
+detected curve left_curverad: 918.86809687  right_curverad: 368.016996085
+detected adjusted curve left_curverad: 953.170916567  right_curverad: 443.090951181
+Frame # 178
+detected curve left_curverad: 947.973548512  right_curverad: 374.87091764
+detected adjusted curve left_curverad: 927.691897448  right_curverad: 408.046295729
+Frame # 179
+detected curve left_curverad: 887.274701269  right_curverad: 391.594326951
+detected adjusted curve left_curverad: 906.51864492  right_curverad: 386.953058072
+Frame # 180
+detected curve left_curverad: 880.040022817  right_curverad: 406.272644318
+detected adjusted curve left_curverad: 899.600063148  right_curverad: 376.94758432
+Frame # 181
+detected curve left_curverad: 794.66391751  right_curverad: 430.396687047
+detected adjusted curve left_curverad: 882.623201004  right_curverad: 392.971658636
+Frame # 182
+detected curve left_curverad: 783.743887246  right_curverad: 447.19046471
+detected adjusted curve left_curverad: 854.32608547  right_curverad: 408.41389965
+Frame # 183
+detected curve left_curverad: 712.993486574  right_curverad: 486.936392766
+detected adjusted curve left_curverad: 806.42127827  right_curverad: 429.971396854
+Frame # 184
+detected curve left_curverad: 630.749880196  right_curverad: 664.011509018
+left_meanx: 293.167267957   right_meanx: 931.784154091    diff: 638.616886134
+Frame # 185
+detected new curve left_curverad: 575.368595564  right_curverad: 528.726175012
+Frame # 186
+detected curve left_curverad: 501.705412381  right_curverad: 503.23792712
+left_meanx: 302.189901394   right_meanx: 921.645786643    diff: 619.455885249
+Frame # 187
+detected new curve left_curverad: 492.451155512  right_curverad: 452.314585662
+Frame # 188
+detected curve left_curverad: 493.767841202  right_curverad: 490.67470538
+left_meanx: 304.761800455   right_meanx: 905.363563322    diff: 600.601762867
+Frame # 189
+detected new curve left_curverad: 510.757915876  right_curverad: 476.153620951
+Frame # 190
+detected curve left_curverad: 520.338712191  right_curverad: 552.146627496
+left_meanx: 306.056627608   right_meanx: 902.778713559    diff: 596.72208595
+Frame # 191
+detected new curve left_curverad: 518.145290233  right_curverad: 558.991274072
+Frame # 192
+detected curve left_curverad: 564.070906112  right_curverad: 575.631892799
+left_meanx: 307.889376646   right_meanx: 919.663447977    diff: 611.77407133
+Frame # 193
+detected new curve left_curverad: 576.366079462  right_curverad: 566.348296234
+Frame # 194
+detected curve left_curverad: 609.74649973  right_curverad: 613.81950786
+left_meanx: 310.159108088   right_meanx: 918.206808199    diff: 608.047700111
+Frame # 195
+detected new curve left_curverad: 623.620888863  right_curverad: 577.826696743
+Frame # 196
+detected curve left_curverad: 741.457635626  right_curverad: 996.173231995
+left_meanx: 300.888004045   right_meanx: 927.504824734    diff: 626.616820689
+Frame # 197
+detected new curve left_curverad: 802.628626452  right_curverad: 1326.79942132
+Frame # 198
+detected curve left_curverad: 894.385678752  right_curverad: 2030.42817858
+detected adjusted curve left_curverad: 846.026466969  right_curverad: 1604.87737135
+Frame # 199
+detected curve left_curverad: 983.237553782  right_curverad: 2479.32756993
+left_meanx: 280.005837804   right_meanx: 971.257142857    diff: 691.251305053
+Frame # 200
+detected new curve left_curverad: 989.114931141  right_curverad: 1552.44677486
+Frame # 201
+detected curve left_curverad: 1116.66328845  right_curverad: 1602.40019992
+left_meanx: 276.817306222   right_meanx: 975.529648646    diff: 698.712342424
+Frame # 202
+detected new curve left_curverad: 1035.9009389  right_curverad: 1299.14736783
+Frame # 203
+detected curve left_curverad: 965.100030076  right_curverad: 1122.01366652
+left_meanx: 281.782759042   right_meanx: 968.783380348    diff: 687.000621306
+Frame # 204
+detected new curve left_curverad: 881.888210404  right_curverad: 706.2903091
+Frame # 205
+detected curve left_curverad: 856.611743306  right_curverad: 706.238857206
+detected adjusted curve left_curverad: 869.066101037  right_curverad: 706.262818671
+Frame # 206
+detected curve left_curverad: 810.173163876  right_curverad: 709.366377402
+detected adjusted curve left_curverad: 848.50631228  right_curverad: 707.293069851
+Frame # 207
+detected curve left_curverad: 710.378067552  right_curverad: 722.745038059
+left_meanx: 291.964180781   right_meanx: 925.163101604    diff: 633.198920823
+Frame # 208
+detected new curve left_curverad: 683.745874542  right_curverad: 459.115016189
+Frame # 209
+detected curve left_curverad: 710.277312775  right_curverad: 489.302197224
+left_meanx: 290.855288539   right_meanx: 924.711549457    diff: 633.856260918
+Frame # 210
+detected new curve left_curverad: 707.006410337  right_curverad: 539.418100811
+Frame # 211
+detected curve left_curverad: 758.870472408  right_curverad: 548.937046909
+detected adjusted curve left_curverad: 732.0203944  right_curverad: 544.134404939
+Frame # 212
+detected curve left_curverad: 705.834912647  right_curverad: 792.723799319
+detected adjusted curve left_curverad: 723.078683385  right_curverad: 607.635618456
+Frame # 213
+detected curve left_curverad: 686.082317437  right_curverad: 935.524359275
+detected adjusted curve left_curverad: 713.460542307  right_curverad: 665.979564965
+Frame # 214
+detected curve left_curverad: 659.556981519  right_curverad: 1247.56891266
+detected adjusted curve left_curverad: 701.986334151  right_curverad: 734.445897412
+Frame # 215
+detected curve left_curverad: 639.340550018  right_curverad: 760.777439345
+detected adjusted curve left_curverad: 687.536368739  right_curverad: 797.656222991
+Frame # 216
+detected curve left_curverad: 637.926535171  right_curverad: 770.579932087
+detected adjusted curve left_curverad: 664.701589005  right_curverad: 870.454646565
+Frame # 217
+detected curve left_curverad: 636.127923337  right_curverad: 819.269639402
+detected adjusted curve left_curverad: 651.260306483  right_curverad: 876.694490384
+Frame # 218
+detected curve left_curverad: 671.77354416  right_curverad: 875.791997853
+detected adjusted curve left_curverad: 648.636874017  right_curverad: 865.629370397
+Frame # 219
+detected curve left_curverad: 655.503186044  right_curverad: 895.958978511
+left_meanx: 283.661796609   right_meanx: 914.69112529    diff: 631.029328681
+Frame # 220
+detected new curve left_curverad: 721.530573401  right_curverad: 843.927601195
+Frame # 221
+detected curve left_curverad: 800.876056339  right_curverad: 720.178139077
+detected adjusted curve left_curverad: 759.135700689  right_curverad: 777.151260183
+Frame # 222
+detected curve left_curverad: 817.394673324  right_curverad: 699.362672098
+detected adjusted curve left_curverad: 777.610290919  right_curverad: 749.365069955
+Frame # 223
+detected curve left_curverad: 831.293889804  right_curverad: 697.022274133
+detected adjusted curve left_curverad: 790.37062672  right_curverad: 735.555407118
+Frame # 224
+detected curve left_curverad: 789.162605594  right_curverad: 954.458740989
+detected adjusted curve left_curverad: 790.12869583  right_curverad: 770.909269538
+Frame # 225
+detected curve left_curverad: 841.702860018  right_curverad: 1084.82870177
+detected adjusted curve left_curverad: 815.632845321  right_curverad: 803.504229769
+Frame # 226
+detected curve left_curverad: 825.795066746  right_curverad: 828.00298848
+detected adjusted curve left_curverad: 820.67696049  right_curverad: 827.552836147
+Frame # 227
+detected curve left_curverad: 849.390184696  right_curverad: 843.85971868
+detected adjusted curve left_curverad: 826.931937441  right_curverad: 862.513114072
+Frame # 228
+detected curve left_curverad: 945.44793232  right_curverad: 831.395802285
+detected adjusted curve left_curverad: 847.285762083  right_curverad: 898.460906224
+Frame # 229
+detected curve left_curverad: 987.510722785  right_curverad: 853.021520853
+detected adjusted curve left_curverad: 885.476910967  right_curverad: 878.786879381
+Frame # 230
+detected curve left_curverad: 1060.85406426  right_curverad: 904.814896125
+detected adjusted curve left_curverad: 925.714095186  right_curverad: 851.34484323
+Frame # 231
+detected curve left_curverad: 1118.61678494  right_curverad: 843.532559563
+detected adjusted curve left_curverad: 983.430906628  right_curverad: 854.580178286
+Frame # 232
+detected curve left_curverad: 1155.14922077  right_curverad: 888.132431216
+detected adjusted curve left_curverad: 1047.64219391  right_curverad: 863.296586571
+Frame # 233
+detected curve left_curverad: 1339.56100904  right_curverad: 863.308392141
+detected adjusted curve left_curverad: 1120.71797081  right_curverad: 869.974704702
+Frame # 234
+detected curve left_curverad: 1280.73207268  right_curverad: 818.907795014
+detected adjusted curve left_curverad: 1182.14799241  right_curverad: 862.644776085
+Frame # 235
+detected curve left_curverad: 1178.01935854  right_curverad: 753.841293628
+detected adjusted curve left_curverad: 1208.94416117  right_curverad: 830.913518941
+Frame # 236
+detected curve left_curverad: 1006.79578759  right_curverad: 679.686833835
+detected adjusted curve left_curverad: 1180.60465494  right_curverad: 793.242566436
+Frame # 237
+detected curve left_curverad: 1022.9274097  right_curverad: 694.786725545
+detected adjusted curve left_curverad: 1150.21663437  right_curverad: 755.67831978
+Frame # 238
+detected curve left_curverad: 915.083567757  right_curverad: 537.879242578
+detected adjusted curve left_curverad: 1065.35048345  right_curverad: 683.301595891
+Frame # 239
+detected curve left_curverad: 878.151611825  right_curverad: 500.421567103
+detected adjusted curve left_curverad: 989.853002447  right_curverad: 617.694564278
+Frame # 240
+detected curve left_curverad: 877.212060168  right_curverad: 518.384914417
+detected adjusted curve left_curverad: 935.916042776  right_curverad: 574.900960111
+Frame # 241
+detected curve left_curverad: 852.537762301  right_curverad: 543.594804863
+left_meanx: 266.991043105   right_meanx: 904.574880279    diff: 637.583837174
+Frame # 242
+detected new curve left_curverad: 873.645200289  right_curverad: 584.378119344
+Frame # 243
+detected curve left_curverad: 802.764767259  right_curverad: 563.845339556
+left_meanx: 267.103161869   right_meanx: 898.275038521    diff: 631.171876652
+Frame # 244
+detected new curve left_curverad: 783.124256946  right_curverad: 563.335323418
+Frame # 245
+detected curve left_curverad: 841.049903879  right_curverad: 565.706431452
+left_meanx: 262.641825673   right_meanx: 890.983396679    diff: 628.341571006
+Frame # 246
+detected new curve left_curverad: 774.631331292  right_curverad: 592.92248719
+Frame # 247
+detected curve left_curverad: 790.474199271  right_curverad: 609.767393861
+left_meanx: 262.417961933   right_meanx: 898.656556082    diff: 636.238594149
+Frame # 248
+detected new curve left_curverad: 729.805193375  right_curverad: 463.251816734
+Frame # 249
+detected curve left_curverad: 772.491219641  right_curverad: 433.972465482
+detected adjusted curve left_curverad: 750.541498397  right_curverad: 448.130213628
+Frame # 250
+detected curve left_curverad: 744.862456049  right_curverad: 480.717900477
+left_meanx: 264.621041506   right_meanx: 898.529023747    diff: 633.907982241
+Frame # 251
+detected new curve left_curverad: 775.768691744  right_curverad: 530.232531833
+Frame # 252
+detected curve left_curverad: 838.466318094  right_curverad: 622.963879526
+left_meanx: 264.290002178   right_meanx: 903.469572123    diff: 639.179569945
+Frame # 253
+detected new curve left_curverad: 865.327458042  right_curverad: 622.917975733
+Frame # 254
+detected curve left_curverad: 898.393125396  right_curverad: 658.249823331
+detected adjusted curve left_curverad: 881.550287101  right_curverad: 640.09655142
+Frame # 255
+detected curve left_curverad: 884.164884298  right_curverad: 661.892270366
+left_meanx: 268.543666698   right_meanx: 903.483323039    diff: 634.939656341
+Frame # 256
+detected new curve left_curverad: 844.225611889  right_curverad: 652.91421948
+Frame # 257
+detected curve left_curverad: 929.730049619  right_curverad: 444.580414966
+left_meanx: 268.691558442   right_meanx: 905.733503463    diff: 637.041945022
+Frame # 258
+detected new curve left_curverad: 929.893888352  right_curverad: 394.947121096
+Frame # 259
+detected curve left_curverad: 935.020193079  right_curverad: 427.740465691
+detected adjusted curve left_curverad: 932.449995452  right_curverad: 410.68811163
+Frame # 260
+detected curve left_curverad: 872.149334846  right_curverad: 465.668341916
+left_meanx: 277.347003421   right_meanx: 916.614468461    diff: 639.267465039
+Frame # 261
+detected new curve left_curverad: 926.942874303  right_curverad: 605.501299272
+Frame # 262
+detected curve left_curverad: 1042.64273792  right_curverad: 482.29698655
+detected adjusted curve left_curverad: 981.394766661  right_curverad: 536.912405736
+Frame # 263
+detected curve left_curverad: 1027.0214767  right_curverad: 537.662194392
+detected adjusted curve left_curverad: 996.146483999  right_curverad: 537.16187949
+Frame # 264
+detected curve left_curverad: 1041.15242657  right_curverad: 594.446797141
+detected adjusted curve left_curverad: 1007.02922561  right_curverad: 550.421028277
+Frame # 265
+detected curve left_curverad: 967.091924934  right_curverad: 633.667820054
+detected adjusted curve left_curverad: 998.779950847  right_curverad: 565.271587515
+Frame # 266
+detected curve left_curverad: 969.790936648  right_curverad: 694.023630497
+detected adjusted curve left_curverad: 1008.3809958  right_curverad: 579.060850673
+Frame # 267
+detected curve left_curverad: 919.032320435  right_curverad: 716.201048375
+detected adjusted curve left_curverad: 982.811688896  right_curverad: 628.344167464
+Frame # 268
+detected curve left_curverad: 928.901569189  right_curverad: 742.476021493
+detected adjusted curve left_curverad: 963.336120144  right_curverad: 671.651264347
+Frame # 269
+detected curve left_curverad: 910.068990398  right_curverad: 800.292744086
+detected adjusted curve left_curverad: 938.325795992  right_curverad: 713.100134453
+Frame # 270
+detected curve left_curverad: 964.301128492  right_curverad: 1205.33088015
+detected adjusted curve left_curverad: 937.799201588  right_curverad: 798.305730321
+Frame # 271
+detected curve left_curverad: 959.184421675  right_curverad: 781.781344671
+detected adjusted curve left_curverad: 935.798098479  right_curverad: 819.470273664
+Frame # 272
+detected curve left_curverad: 890.807679617  right_curverad: 898.948294514
+detected adjusted curve left_curverad: 929.797196731  right_curverad: 859.449993528
+Frame # 273
+detected curve left_curverad: 880.365006081  right_curverad: 877.441066581
+detected adjusted curve left_curverad: 919.646125554  right_curverad: 891.188030302
+Frame # 274
+detected curve left_curverad: 856.985448658  right_curverad: 622.315385788
+left_meanx: 293.986785932   right_meanx: 926.765314402    diff: 632.77852847
+Frame # 275
+detected new curve left_curverad: 918.511708965  right_curverad: 636.142276889
+Frame # 276
+detected curve left_curverad: 934.529405571  right_curverad: 713.83347849
+detected adjusted curve left_curverad: 926.451213509  right_curverad: 672.751500214
+Frame # 277
+detected curve left_curverad: 1029.62835967  right_curverad: 777.871190419
+detected adjusted curve left_curverad: 958.465854136  right_curverad: 704.484704504
+Frame # 278
+detected curve left_curverad: 1050.67434894  right_curverad: 819.955309082
+detected adjusted curve left_curverad: 979.966089014  right_curverad: 730.191979182
+Frame # 279
+detected curve left_curverad: 1021.90581324  right_curverad: 862.260341655
+left_meanx: 299.433539598   right_meanx: 938.130227582    diff: 638.696687984
+Frame # 280
+detected new curve left_curverad: 1004.45289467  right_curverad: 871.885843024
+Frame # 281
+detected curve left_curverad: 1191.21926518  right_curverad: 927.545745324
+detected adjusted curve left_curverad: 1089.89254254  right_curverad: 898.85493018
+Frame # 282
+detected curve left_curverad: 1147.0806776  right_curverad: 852.4178074
+detected adjusted curve left_curverad: 1108.31083714  right_curverad: 882.823398499
+Frame # 283
+detected curve left_curverad: 1247.08366237  right_curverad: 933.188647944
+detected adjusted curve left_curverad: 1140.02582097  right_curverad: 894.897883077
+Frame # 284
+detected curve left_curverad: 1278.14344898  right_curverad: 1121.81714063
+detected adjusted curve left_curverad: 1165.20862746  right_curverad: 932.626738454
+Frame # 285
+detected curve left_curverad: 1242.63998241  right_curverad: 991.991935188
+detected adjusted curve left_curverad: 1219.43809155  right_curverad: 957.425477086
+Frame # 286
+detected curve left_curverad: 1526.73914156  right_curverad: 1166.31012365
+detected adjusted curve left_curverad: 1276.890459  right_curverad: 999.674262608
+Frame # 287
+detected curve left_curverad: 1685.4007538  right_curverad: 941.757670466
+detected adjusted curve left_curverad: 1374.64101388  right_curverad: 1022.41712438
+Frame # 288
+detected curve left_curverad: 1492.04657006  right_curverad: 941.806929115
+detected adjusted curve left_curverad: 1426.26360892  right_curverad: 1024.46626843
+Frame # 289
+detected curve left_curverad: 1550.51363079  right_curverad: 997.617016293
+detected adjusted curve left_curverad: 1484.46022912  right_curverad: 1001.69723656
+Frame # 290
+detected curve left_curverad: 1659.28232413  right_curverad: 1051.75166332
+detected adjusted curve left_curverad: 1579.19913459  right_curverad: 1013.32596527
+Frame # 291
+detected curve left_curverad: 1682.15711655  right_curverad: 1108.24814706
+detected adjusted curve left_curverad: 1609.97036416  right_curverad: 1004.18186823
+Frame # 292
+detected curve left_curverad: 1724.63700943  right_curverad: 1207.81316777
+detected adjusted curve left_curverad: 1616.99847963  right_curverad: 1053.67594402
+Frame # 293
+detected curve left_curverad: 2065.72395721  right_curverad: 1164.90870111
+detected adjusted curve left_curverad: 1720.56749017  right_curverad: 1100.85842331
+Frame # 294
+detected curve left_curverad: 1901.1906599  right_curverad: 1052.93689811
+detected adjusted curve left_curverad: 1794.00728418  right_curverad: 1113.77486901
+Frame # 295
+detected curve left_curverad: 1771.92224008  right_curverad: 1067.42485109
+detected adjusted curve left_curverad: 1819.01280511  right_curverad: 1117.25097629
+Frame # 296
+detected curve left_curverad: 1799.87177767  right_curverad: 1239.62821757
+detected adjusted curve left_curverad: 1845.11088782  right_curverad: 1141.64487077
+Frame # 297
+detected curve left_curverad: 1742.63026489  right_curverad: 1461.54803516
+detected adjusted curve left_curverad: 1849.19632704  right_curverad: 1180.38159947
+Frame # 298
+detected curve left_curverad: 1933.04175488  right_curverad: 1070.84017459
+detected adjusted curve left_curverad: 1826.74742387  right_curverad: 1159.73505551
+Frame # 299
+detected curve left_curverad: 2002.98992309  right_curverad: 828.206222927
+detected adjusted curve left_curverad: 1844.76432837  right_curverad: 1094.30994252
+Frame # 300
+detected curve left_curverad: 1901.17684308  right_curverad: 929.171446132
+detected adjusted curve left_curverad: 1871.25382993  right_curverad: 1061.90936842
+Frame # 301
+detected curve left_curverad: 2044.49436566  right_curverad: 1166.21691304
+detected adjusted curve left_curverad: 1918.996985  right_curverad: 1050.58218491
+Frame # 302
+detected curve left_curverad: 2354.86952843  right_curverad: 1262.58167756
+detected adjusted curve left_curverad: 2035.55394683  right_curverad: 1027.31607897
+Frame # 303
+detected curve left_curverad: 2404.10767177  right_curverad: 1452.53201125
+detected adjusted curve left_curverad: 2123.17092907  right_curverad: 1081.85738852
+Frame # 304
+detected curve left_curverad: 2570.09290197  right_curverad: 2267.06302101
+detected adjusted curve left_curverad: 2227.36558435  right_curverad: 1296.89611158
+Frame # 305
+detected curve left_curverad: 3895.51534538  right_curverad: 25660.7498778
+detected bad curve left_curverad: 3895.51534538  right_curverad: 25660.7498778
+Frame # 306
+detected new curve left_curverad: 3145.36742948  right_curverad: 3118.71761548
+Frame # 307
+detected curve left_curverad: 3173.88565367  right_curverad: 1404.67269567
+detected adjusted curve left_curverad: 3159.56147522  right_curverad: 1936.86348501
+Frame # 308
+detected curve left_curverad: 2841.2839874  right_curverad: 1541.06884246
+detected adjusted curve left_curverad: 3045.82913185  right_curverad: 1784.1073977
+Frame # 309
+detected curve left_curverad: 3088.63855729  right_curverad: 1697.43335397
+detected adjusted curve left_curverad: 3056.41757145  right_curverad: 1761.61967211
+Frame # 310
+detected curve left_curverad: 2961.35378655  right_curverad: 3066.2960762
+detected adjusted curve left_curverad: 3036.91657424  right_curverad: 1925.42529282
+Frame # 311
+detected curve left_curverad: 2779.82920207  right_curverad: 14813.9737149
+left_meanx: 335.289302249   right_meanx: 972.534654504    diff: 637.245352254
+Frame # 312
+detected new curve left_curverad: 3067.11984932  right_curverad: 5735.39442611
+Frame # 313
+detected curve left_curverad: 3641.77434591  right_curverad: 66561.8627826
+left_meanx: 345.013156116   right_meanx: 966.572218515    diff: 621.559062398
+Frame # 314
+detected new curve left_curverad: 5456.83183616  right_curverad: 13122.5334728
+Frame # 315
+detected curve left_curverad: 6199.12759911  right_curverad: 22649.3762946
+left_meanx: 345.798700375   right_meanx: 975.375556498    diff: 629.576856123
+Frame # 316
+detected new curve left_curverad: 8782.17226363  right_curverad: 21081.5625639
+Frame # 317
+detected curve left_curverad: 11070.5432607  right_curverad: 3269.9156519
+detected bad curve left_curverad: 11070.5432607  right_curverad: 3269.9156519
+Frame # 318
+detected new curve left_curverad: 6409.29495997  right_curverad: 1592.11385946
+Frame # 319
+detected curve left_curverad: 5752.40231019  right_curverad: 1195.08879391
+left_meanx: 349.596772927   right_meanx: 983.93915893    diff: 634.342386002
+Frame # 320
+detected new curve left_curverad: 6050.8880819  right_curverad: 1069.57278214
+Frame # 321
+detected curve left_curverad: 5890.66187213  right_curverad: 1151.89799234
+left_meanx: 352.960241756   right_meanx: 986.125875815    diff: 633.165634059
+Frame # 322
+detected new curve left_curverad: 6100.92065357  right_curverad: 1183.54089265
+Frame # 323
+detected curve left_curverad: 5782.75563912  right_curverad: 1360.42653865
+left_meanx: 354.239908854   right_meanx: 985.860640871    diff: 631.620732016
+Frame # 324
+detected new curve left_curverad: 8935.14049248  right_curverad: 1577.66305801
+Frame # 325
+detected curve left_curverad: 5155.23869832  right_curverad: 1789.80807906
+detected bad curve left_curverad: 5155.23869832  right_curverad: 1789.80807906
+Frame # 326
+detected new curve left_curverad: 4665.49408642  right_curverad: 2045.5333577
+Frame # 327
+detected curve left_curverad: 5312.29300432  right_curverad: 2397.34836544
+detected bad curve left_curverad: 5312.29300432  right_curverad: 2397.34836544
+Frame # 328
+detected new curve left_curverad: 5883.55431511  right_curverad: 3920.81586106
+Frame # 329
+detected curve left_curverad: 4519.70209012  right_curverad: 12361.7107608
+detected bad curve left_curverad: 4519.70209012  right_curverad: 12361.7107608
+Frame # 330
+detected new curve left_curverad: 6238.3358638  right_curverad: 5223.57551097
+Frame # 331
+detected curve left_curverad: 12895.1222034  right_curverad: 2877.14504104
+detected bad curve left_curverad: 12895.1222034  right_curverad: 2877.14504104
+Frame # 332
+detected new curve left_curverad: 37651.5637693  right_curverad: 15616.2769438
+Frame # 333
+detected curve left_curverad: 7353.84586004  right_curverad: 2899.17553919
+left_meanx: 359.835671592   right_meanx: 986.799095757    diff: 626.963424165
+Frame # 334
+detected new curve left_curverad: 5222.15309762  right_curverad: 2952.07742012
+Frame # 335
+detected curve left_curverad: 5160.28224663  right_curverad: 3907.33782385
+left_meanx: 359.242208333   right_meanx: 988.391273465    diff: 629.149065132
+Frame # 336
+detected new curve left_curverad: 5763.92646429  right_curverad: 3782.03450068
+Frame # 337
+detected curve left_curverad: 7178.62746255  right_curverad: 5657.42018698
+detected bad curve left_curverad: 7178.62746255  right_curverad: 5657.42018698
+Frame # 338
+detected new curve left_curverad: 23646.8558696  right_curverad: 6396.88236781
+Frame # 339
+detected curve left_curverad: 67824.411163  right_curverad: 156856.191389
+detected bad curve left_curverad: 67824.411163  right_curverad: 156856.191389
+Frame # 340
+detected new curve left_curverad: 9381.20977748  right_curverad: 8689.83945047
+Frame # 341
+detected curve left_curverad: 7103.33038408  right_curverad: 1732.67289185
+detected bad curve left_curverad: 7103.33038408  right_curverad: 1732.67289185
+Frame # 342
+detected new curve left_curverad: 3617.38036344  right_curverad: 1685.5232723
+Frame # 343
+detected curve left_curverad: 3594.20010527  right_curverad: 1414.75262095
+left_meanx: 362.269917856   right_meanx: 998.766670304    diff: 636.496752448
+Frame # 344
+detected new curve left_curverad: 3184.74774373  right_curverad: 2222.23866394
+Frame # 345
+detected curve left_curverad: 3626.44023122  right_curverad: 2142.41313123
+detected adjusted curve left_curverad: 3391.27262624  right_curverad: 2181.59544628
+Frame # 346
+detected curve left_curverad: 3508.87176753  right_curverad: 2861.30399644
+detected adjusted curve left_curverad: 3429.5861025  right_curverad: 2369.18177554
+Frame # 347
+detected curve left_curverad: 6345.63831161  right_curverad: 6225.7578102
+detected bad curve left_curverad: 6345.63831161  right_curverad: 6225.7578102
+Frame # 348
+detected new curve left_curverad: 6711.00782512  right_curverad: 5204.84992187
+Frame # 349
+detected curve left_curverad: 31829.470289  right_curverad: 11311.0233729
+detected bad curve left_curverad: 31829.470289  right_curverad: 11311.0233729
+Frame # 350
+detected new curve left_curverad: 23803.6891782  right_curverad: 7711.41741856
+Frame # 351
+detected curve left_curverad: 11057.6273124  right_curverad: 13594.7633171
+detected bad curve left_curverad: 11057.6273124  right_curverad: 13594.7633171
+Frame # 352
+detected new curve left_curverad: 5549.61775911  right_curverad: 26788.1285098
+Frame # 353
+detected curve left_curverad: 3392.2041079  right_curverad: 8262.34380134
+detected bad curve left_curverad: 3392.2041079  right_curverad: 8262.34380134
+Frame # 354
+detected new curve left_curverad: 4162.34135162  right_curverad: 2935.36513161
+Frame # 355
+detected curve left_curverad: 3457.86249043  right_curverad: 2798.77234324
+detected adjusted curve left_curverad: 3777.53778107  right_curverad: 2865.44126935
+Frame # 356
+detected curve left_curverad: 3156.66311899  right_curverad: 14966.4350604
+detected bad curve left_curverad: 3156.66311899  right_curverad: 14966.4350604
+Frame # 357
+detected new curve left_curverad: 2660.18754624  right_curverad: 13689.0683491
+Frame # 358
+detected curve left_curverad: 4929.4098598  right_curverad: 6501.51979099
+detected bad curve left_curverad: 4929.4098598  right_curverad: 6501.51979099
+Frame # 359
+detected new curve left_curverad: 3221.3824282  right_curverad: 2486.21812304
+Frame # 360
+detected curve left_curverad: 5855.83782447  right_curverad: 2896.08329826
+detected bad curve left_curverad: 5855.83782447  right_curverad: 2896.08329826
+Frame # 361
+detected new curve left_curverad: 14970.5002851  right_curverad: 3554.13731441
+Frame # 362
+detected curve left_curverad: 4598.98135833  right_curverad: 4789.99002632
+detected adjusted curve left_curverad: 13275.9547443  right_curverad: 4080.52437667
+Frame # 363
+detected curve left_curverad: 2986.45750078  right_curverad: 5950.67261439
+detected bad curve left_curverad: 2986.45750078  right_curverad: 5950.67261439
+Frame # 364
+detected new curve left_curverad: 2078.21275317  right_curverad: 20925.6484629
+Frame # 365
+detected curve left_curverad: 1468.08291176  right_curverad: 2863.06530104
+detected adjusted curve left_curverad: 1720.64029991  right_curverad: 6633.69118561
+Frame # 366
+detected curve left_curverad: 1257.44338511  right_curverad: 2169.44540303
+detected adjusted curve left_curverad: 1532.45814663  right_curverad: 3934.66320431
+Frame # 367
+detected curve left_curverad: 1238.19888467  right_curverad: 2108.29658442
+detected adjusted curve left_curverad: 1446.51091337  right_curverad: 3234.21692155
+Frame # 368
+detected curve left_curverad: 1142.1509845  right_curverad: 1587.19754241
+detected adjusted curve left_curverad: 1373.31083628  right_curverad: 2678.340895
+Frame # 369
+detected curve left_curverad: 1302.68106999  right_curverad: 5252.84743803
+detected bad curve left_curverad: 1302.68106999  right_curverad: 5252.84743803
+Frame # 370
+detected new curve left_curverad: 1271.40240349  right_curverad: 14196.123153
+Frame # 371
+detected curve left_curverad: 1364.348624  right_curverad: 4965.74678518
+detected adjusted curve left_curverad: 1316.23447026  right_curverad: 7357.73143488
+Frame # 372
+detected curve left_curverad: 1500.33814211  right_curverad: 8900.20793882
+detected bad curve left_curverad: 1500.33814211  right_curverad: 8900.20793882
+Frame # 373
+detected new curve left_curverad: 1776.31798558  right_curverad: 9857.19698248
+Frame # 374
+detected curve left_curverad: 2260.62517989  right_curverad: 37681.3838556
+detected bad curve left_curverad: 2260.62517989  right_curverad: 37681.3838556
+Frame # 375
+detected new curve left_curverad: 3671.02827868  right_curverad: 17020.1862022
+Frame # 376
+detected curve left_curverad: 6871.39376408  right_curverad: 4862.47716033
+left_meanx: 364.451379638   right_meanx: 997.779986962    diff: 633.328607324
+Frame # 377
+detected new curve left_curverad: 9991.43260553  right_curverad: 2108.77170935
+Frame # 378
+detected curve left_curverad: 115472.928873  right_curverad: 1561.84741439
+left_meanx: 366.586311449   right_meanx: 998.802997859    diff: 632.21668641
+Frame # 379
+detected new curve left_curverad: 13836.8306876  right_curverad: 1889.88326024
+Frame # 380
+detected curve left_curverad: 6888.65748427  right_curverad: 1662.26627511
+detected bad curve left_curverad: 6888.65748427  right_curverad: 1662.26627511
+Frame # 381
+detected new curve left_curverad: 4573.81075286  right_curverad: 1914.23303495
+Frame # 382
+detected curve left_curverad: 4613.55372526  right_curverad: 1515.34838171
+detected adjusted curve left_curverad: 4593.5956169  right_curverad: 1691.59272069
+Frame # 383
+detected curve left_curverad: 3806.57428564  right_curverad: 11559.2078503
+detected bad curve left_curverad: 3806.57428564  right_curverad: 11559.2078503
+Frame # 384
+detected new curve left_curverad: 3739.60122028  right_curverad: 4912.45586182
+Frame # 385
+detected curve left_curverad: 4699.07452277  right_curverad: 8647.76430259
+detected bad curve left_curverad: 4699.07452277  right_curverad: 8647.76430259
+Frame # 386
+detected new curve left_curverad: 4234.51226577  right_curverad: 25327.4817209
+Frame # 387
+detected curve left_curverad: 5419.16324027  right_curverad: 64177.6536549
+detected bad curve left_curverad: 5419.16324027  right_curverad: 64177.6536549
+Frame # 388
+detected new curve left_curverad: 7859.89681508  right_curverad: 6760.48716529
+Frame # 389
+detected curve left_curverad: 53201.7026129  right_curverad: 3489.81262066
+detected bad curve left_curverad: 53201.7026129  right_curverad: 3489.81262066
+Frame # 390
+detected new curve left_curverad: 18463.2081737  right_curverad: 1457.47163849
+Frame # 391
+detected curve left_curverad: 10607.016178  right_curverad: 1188.62170826
+detected bad curve left_curverad: 10607.016178  right_curverad: 1188.62170826
+Frame # 392
+detected new curve left_curverad: 136265.2186  right_curverad: 940.263230052
+Frame # 393
+detected curve left_curverad: 12954.6734059  right_curverad: 1802.13584815
+detected bad curve left_curverad: 12954.6734059  right_curverad: 1802.13584815
+Frame # 394
+detected new curve left_curverad: 7696.38008347  right_curverad: 2074.69145016
+Frame # 395
+detected curve left_curverad: 7801.4451686  right_curverad: 2073.35712461
+detected bad curve left_curverad: 7801.4451686  right_curverad: 2073.35712461
+Frame # 396
+detected new curve left_curverad: 5418.54787479  right_curverad: 2585.50353973
+Frame # 397
+detected curve left_curverad: 4923.60919582  right_curverad: 8061.98628148
+detected bad curve left_curverad: 4923.60919582  right_curverad: 8061.98628148
+Frame # 398
+detected new curve left_curverad: 3948.51551075  right_curverad: 15371.5702908
+Frame # 399
+detected curve left_curverad: 3656.7654341  right_curverad: 7729.37301717
+left_meanx: 333.800558123   right_meanx: 1009.61056459    diff: 675.810006462
+Frame # 400
+detected new curve left_curverad: 3550.21927418  right_curverad: 5092.15189936
+Frame # 401
+detected curve left_curverad: 3866.67737637  right_curverad: 2172.43456624
+left_meanx: 333.053376177   right_meanx: 1015.69579555    diff: 682.642419371
+Frame # 402
+detected new curve left_curverad: 8698.46790025  right_curverad: 1466.90106275
+Frame # 403
+detected curve left_curverad: 40037.78715  right_curverad: 1059.19810237
+left_meanx: 332.588150289   right_meanx: 1010.71478998    diff: 678.126639686
+Frame # 404
+detected new curve left_curverad: 299492.314023  right_curverad: 1047.06407976
+Frame # 405
+detected curve left_curverad: 187388.483078  right_curverad: 1218.64354053
+detected bad curve left_curverad: 187388.483078  right_curverad: 1218.64354053
+Frame # 406
+detected new curve left_curverad: 9713.60085897  right_curverad: 6012.51746498
+Frame # 407
+detected curve left_curverad: 6696.42243672  right_curverad: 2966.69717223
+left_meanx: 326.075933791   right_meanx: 1007.81363142    diff: 681.737697626
+Frame # 408
+detected new curve left_curverad: 7717.45273797  right_curverad: 4662.74740246
+Frame # 409
+detected curve left_curverad: 6758.59044327  right_curverad: 2992.47128032
+left_meanx: 324.720415461   right_meanx: 1000.4817373    diff: 675.761321837
+Frame # 410
+detected new curve left_curverad: 6910.43287529  right_curverad: 8320.33522066
+Frame # 411
+detected curve left_curverad: 6782.29500125  right_curverad: 16688.0421392
+left_meanx: 325.149396606   right_meanx: 1001.05821138    diff: 675.908814776
+Frame # 412
+detected new curve left_curverad: 10984.148669  right_curverad: 91668.3323359
+Frame # 413
+detected curve left_curverad: 6859.12094188  right_curverad: 10415.9700418
+left_meanx: 324.14427741   right_meanx: 1004.69617845    diff: 680.551901044
+Frame # 414
+detected new curve left_curverad: 8595.51865473  right_curverad: 1316.39276708
+Frame # 415
+detected curve left_curverad: 14791.6037942  right_curverad: 987.6396415
+detected bad curve left_curverad: 14791.6037942  right_curverad: 987.6396415
+Frame # 416
+detected new curve left_curverad: 23845.4099671  right_curverad: 1622.23051449
+Frame # 417
+detected curve left_curverad: 6625.98730722  right_curverad: 2615.61138866
+detected bad curve left_curverad: 6625.98730722  right_curverad: 2615.61138866
+Frame # 418
+detected new curve left_curverad: 4047.69843095  right_curverad: 3539.7355081
+Frame # 419
+detected curve left_curverad: 4428.08044456  right_curverad: 2873.78835776
+detected adjusted curve left_curverad: 4229.3529255  right_curverad: 3172.18808458
+Frame # 420
+detected curve left_curverad: 2813.40386124  right_curverad: 3157.95939886
+detected adjusted curve left_curverad: 3621.75759911  right_curverad: 3167.43078037
+Frame # 421
+detected curve left_curverad: 3342.12278209  right_curverad: 18101.7499503
+detected bad curve left_curverad: 3342.12278209  right_curverad: 18101.7499503
+Frame # 422
+detected new curve left_curverad: 3872.71913956  right_curverad: 28026.0557503
+Frame # 423
+detected curve left_curverad: 4182.00663095  right_curverad: 101489.004417
+detected bad curve left_curverad: 4182.00663095  right_curverad: 101489.004417
+Frame # 424
+detected new curve left_curverad: 4462.56924299  right_curverad: 72820.9733974
+Frame # 425
+detected curve left_curverad: 4707.53827423  right_curverad: 7292.55609897
+detected bad curve left_curverad: 4707.53827423  right_curverad: 7292.55609897
+Frame # 426
+detected new curve left_curverad: 5854.84206544  right_curverad: 1856.14109809
+Frame # 427
+detected curve left_curverad: 4956.88371197  right_curverad: 2253.47413164
+left_meanx: 314.619470782   right_meanx: 994.633616619    diff: 680.014145838
+Frame # 428
+detected new curve left_curverad: 7997.03155009  right_curverad: 3664.99088574
+Frame # 429
+detected curve left_curverad: 5055.47522254  right_curverad: 3255.07874028
+detected bad curve left_curverad: 5055.47522254  right_curverad: 3255.07874028
+Frame # 430
+detected new curve left_curverad: 11985.7524217  right_curverad: 5381.03675814
+Frame # 431
+detected curve left_curverad: 7076.76645833  right_curverad: 9224.69683868
+left_meanx: 308.112095333   right_meanx: 988.621609941    diff: 680.509514608
+Frame # 432
+detected new curve left_curverad: 5857.96426858  right_curverad: 7287.20724113
+Frame # 433
+detected curve left_curverad: 11350.7659593  right_curverad: 3085.80314802
+left_meanx: 303.945625173   right_meanx: 988.62400906    diff: 684.678383888
+Frame # 434
+detected new curve left_curverad: 36213.9142674  right_curverad: 5139.71758473
+Frame # 435
+detected curve left_curverad: 8962.79606892  right_curverad: 6198.86046426
+left_meanx: 306.093316701   right_meanx: 990.419448984    diff: 684.326132283
+Frame # 436
+detected new curve left_curverad: 4892.5458687  right_curverad: 6790.28226455
+Frame # 437
+detected curve left_curverad: 4188.91106956  right_curverad: 9235.88090125
+left_meanx: 311.855897891   right_meanx: 986.951911883    diff: 675.096013993
+Frame # 438
+detected new curve left_curverad: 4145.71523527  right_curverad: 4122.39446614
+Frame # 439
+detected curve left_curverad: 4004.9893508  right_curverad: 12052.3768682
+detected bad curve left_curverad: 4004.9893508  right_curverad: 12052.3768682
+Frame # 440
+detected new curve left_curverad: 4436.84840013  right_curverad: 5038.40895743
+Frame # 441
+detected curve left_curverad: 3531.40885609  right_curverad: 3101.96796367
+detected adjusted curve left_curverad: 3932.67645631  right_curverad: 3839.8259581
+Frame # 442
+detected curve left_curverad: 3110.16833486  right_curverad: 2112.88323602
+detected adjusted curve left_curverad: 3614.08127184  right_curverad: 3017.5988337
+Frame # 443
+detected curve left_curverad: 3835.14842597  right_curverad: 7526.14961027
+left_meanx: 305.911256384   right_meanx: 986.562911651    diff: 680.651655267
+Frame # 444
+detected new curve left_curverad: 3849.81151182  right_curverad: 29474.4898443
+Frame # 445
+detected curve left_curverad: 3169.26921539  right_curverad: 2420.00686767
+left_meanx: 304.234813451   right_meanx: 983.218145263    diff: 678.983331811
+Frame # 446
+detected new curve left_curverad: 2631.15972101  right_curverad: 3244.65135577
+Frame # 447
+detected curve left_curverad: 2524.91124784  right_curverad: 3392.53150973
+detected adjusted curve left_curverad: 2576.93932774  right_curverad: 3316.93914601
+Frame # 448
+detected curve left_curverad: 2613.69738244  right_curverad: 3514.13305595
+detected adjusted curve left_curverad: 2589.07505494  right_curverad: 3380.16442061
+Frame # 449
+detected curve left_curverad: 2231.2869384  right_curverad: 1334.48608059
+detected adjusted curve left_curverad: 2489.28654741  right_curverad: 2443.42904033
+Frame # 450
+detected curve left_curverad: 2803.79893108  right_curverad: 1160.0182278
+detected adjusted curve left_curverad: 2546.40898799  right_curverad: 2000.56018144
+Frame # 451
+detected curve left_curverad: 3040.06692909  right_curverad: 930.220287783
+detected adjusted curve left_curverad: 2614.47243383  right_curverad: 1530.76816945
+Frame # 452
+detected curve left_curverad: 4184.36961203  right_curverad: 1357.24888086
+detected adjusted curve left_curverad: 2848.40022428  right_curverad: 1348.37727842
+Frame # 453
+detected curve left_curverad: 9651.56556234  right_curverad: 1589.58949453
+detected bad curve left_curverad: 9651.56556234  right_curverad: 1589.58949453
+Frame # 454
+detected new curve left_curverad: 16317.9778526  right_curverad: 4040.75716953
+Frame # 455
+detected curve left_curverad: 493558.299915  right_curverad: 1979.70618249
+detected bad curve left_curverad: 493558.299915  right_curverad: 1979.70618249
+Frame # 456
+detected new curve left_curverad: 35269.3281716  right_curverad: 2552.45074032
+Frame # 457
+detected curve left_curverad: 20281.8457975  right_curverad: 4888.88650435
+detected bad curve left_curverad: 20281.8457975  right_curverad: 4888.88650435
+Frame # 458
+detected new curve left_curverad: 11884.8647438  right_curverad: 5546.32615059
+Frame # 459
+detected curve left_curverad: 93754.3694807  right_curverad: 10001.5318011
+detected bad curve left_curverad: 93754.3694807  right_curverad: 10001.5318011
+Frame # 460
+detected new curve left_curverad: 46971.0294788  right_curverad: 13505.6701034
+Frame # 461
+detected curve left_curverad: 42269.0520767  right_curverad: 5231.56223333
+detected bad curve left_curverad: 42269.0520767  right_curverad: 5231.56223333
+Frame # 462
+detected new curve left_curverad: 10122.3168838  right_curverad: 2025.55335202
+Frame # 463
+detected curve left_curverad: 7919.35470749  right_curverad: 16083.5245311
+detected bad curve left_curverad: 7919.35470749  right_curverad: 16083.5245311
+Frame # 464
+detected new curve left_curverad: 4043.97613544  right_curverad: 10263.7759632
+Frame # 465
+detected curve left_curverad: 3205.16913279  right_curverad: 2634.06893758
+detected adjusted curve left_curverad: 3576.0409899  right_curverad: 7087.56849485
+Frame # 466
+detected curve left_curverad: 2707.3078244  right_curverad: 3261.79441163
+detected adjusted curve left_curverad: 3230.49279863  right_curverad: 5095.45086819
+Frame # 467
+detected curve left_curverad: 2339.79091676  right_curverad: 1910.72143058
+detected adjusted curve left_curverad: 2949.76096957  right_curverad: 3596.74310504
+Frame # 468
+detected curve left_curverad: 2477.26418471  right_curverad: 5142.42688163
+detected bad curve left_curverad: 2477.26418471  right_curverad: 5142.42688163
+Frame # 469
+detected new curve left_curverad: 2698.66591801  right_curverad: 3965.2587466
+Frame # 470
+detected curve left_curverad: 3001.63201089  right_curverad: 4193.1106303
+detected adjusted curve left_curverad: 2842.08844905  right_curverad: 4075.9974861
+Frame # 471
+detected curve left_curverad: 3866.85474167  right_curverad: 3322.95280929
+detected adjusted curve left_curverad: 3117.47398606  right_curverad: 3789.72465343
+Frame # 472
+detected curve left_curverad: 4418.40877352  right_curverad: 2979.89405765
+detected adjusted curve left_curverad: 3365.1738071  right_curverad: 3548.62671825
+Frame # 473
+detected curve left_curverad: 10064.0103768  right_curverad: 2702.10376739
+left_meanx: 324.881442142   right_meanx: 999.939986831    diff: 675.058544689
+Frame # 474
+detected new curve left_curverad: 215027.133542  right_curverad: 1650.87868569
+Frame # 475
+detected curve left_curverad: 88695.9555913  right_curverad: 3223.99795607
+left_meanx: 320.435146911   right_meanx: 1002.46795328    diff: 682.032806365
+Frame # 476
+detected new curve left_curverad: 25050.2204658  right_curverad: 1970.8443717
+Frame # 477
+detected curve left_curverad: 9830.48504203  right_curverad: 5496.43827075
+left_meanx: 318.230683177   right_meanx: 1003.15618077    diff: 684.925497594
+Frame # 478
+detected new curve left_curverad: 6729.26454002  right_curverad: 15588.8534662
+Frame # 479
+detected curve left_curverad: 5983.42278696  right_curverad: 28909.7852372
+left_meanx: 315.234493694   right_meanx: 1005.3636761    diff: 690.129182407
+Frame # 480
+detected new curve left_curverad: 6945.98296941  right_curverad: 2348735.82599
+Frame # 481
+detected curve left_curverad: 5374.88466595  right_curverad: 60184.5783204
+left_meanx: 315.632221599   right_meanx: 1000.07351809    diff: 684.441296492
+Frame # 482
+detected new curve left_curverad: 3804.4852739  right_curverad: 5089.09589261
+Frame # 483
+detected curve left_curverad: 4130.77173886  right_curverad: 5404.95921519
+left_meanx: 309.535316461   right_meanx: 1012.32468213    diff: 702.789365673
+Frame # 484
+detected new curve left_curverad: 5452.915926  right_curverad: 7658.83862789
+Frame # 485
+detected curve left_curverad: 3948.44247472  right_curverad: 7321.06423342
+left_meanx: 311.855118165   right_meanx: 1024.26869285    diff: 712.413574681
+Frame # 486
+detected new curve left_curverad: 6173.57216379  right_curverad: 1301.40397398
+Frame # 487
+detected curve left_curverad: 9190.44297753  right_curverad: 1902.72138731
+left_meanx: 319.3740136   right_meanx: 1013.36457734    diff: 693.990563743
+Frame # 488
+detected new curve left_curverad: 9835.93211723  right_curverad: 3079.5079048
+Frame # 489
+detected curve left_curverad: 78196.0678765  right_curverad: 3670.15172338
+detected bad curve left_curverad: 78196.0678765  right_curverad: 3670.15172338
+Frame # 490
+detected new curve left_curverad: 185842.647672  right_curverad: 3837.42486259
+Frame # 491
+detected curve left_curverad: 18187.9187069  right_curverad: 4637.58644649
+detected bad curve left_curverad: 18187.9187069  right_curverad: 4637.58644649
+Frame # 492
+detected new curve left_curverad: 47244.3466495  right_curverad: 12442.6793172
+Frame # 493
+detected curve left_curverad: 37439.6190584  right_curverad: 2665.41754165
+detected bad curve left_curverad: 37439.6190584  right_curverad: 2665.41754165
+Frame # 494
+detected new curve left_curverad: 10090.6921786  right_curverad: 2996.85730918
+Frame # 495
+detected curve left_curverad: 11596.7556388  right_curverad: 3278.45447698
+left_meanx: 319.752366528   right_meanx: 1009.55973776    diff: 689.807371236
+Frame # 496
+detected new curve left_curverad: 26393.9594345  right_curverad: 113989.132821
+Frame # 497
+detected curve left_curverad: 8222.86592365  right_curverad: 4216.51394839
+left_meanx: 320.152105862   right_meanx: 1014.39842344    diff: 694.24631758
+Frame # 498
+detected new curve left_curverad: 9996.61075708  right_curverad: 3430.12705354
+Frame # 499
+detected curve left_curverad: 10988.3083576  right_curverad: 73840.4012217
+left_meanx: 319.251995067   right_meanx: 1008.6543556    diff: 689.402360536
+Frame # 500
+detected new curve left_curverad: 23262.3813802  right_curverad: 5168.99637334
+Frame # 501
+detected curve left_curverad: 943287.446409  right_curverad: 6597.06037726
+left_meanx: 310.118548693   right_meanx: 1016.39103599    diff: 706.272487296
+Frame # 502
+detected new curve left_curverad: 52355.4444819  right_curverad: 2206.73814153
+Frame # 503
+detected curve left_curverad: 102950.028161  right_curverad: 3947.59716516
+left_meanx: 311.526878191   right_meanx: 1016.56469641    diff: 705.037818214
+Frame # 504
+detected new curve left_curverad: 11392.0890369  right_curverad: 3175.06334879
+Frame # 505
+detected curve left_curverad: 23893.7806924  right_curverad: 2772.2062438
+left_meanx: 311.384191176   right_meanx: 1011.58632146    diff: 700.202130281
+Frame # 506
+detected new curve left_curverad: 17362.7772388  right_curverad: 2442.8208784
+Frame # 507
+detected curve left_curverad: 13072.6067374  right_curverad: 11157.1094248
+left_meanx: 309.428753994   right_meanx: 1012.425    diff: 702.996246006
+Frame # 508
+detected new curve left_curverad: 11673.4543774  right_curverad: 5874.60964474
+Frame # 509
+detected curve left_curverad: 9900.03106989  right_curverad: 8273.83416071
+left_meanx: 305.740740741   right_meanx: 1024.4624031    diff: 718.72166236
+Frame # 510
+detected new curve left_curverad: 10153.1298736  right_curverad: 2299.22110492
+Frame # 511
+detected curve left_curverad: 30242.7241149  right_curverad: 3384.78638844
+left_meanx: 306.473508285   right_meanx: 1019.94134264    diff: 713.467834353
+Frame # 512
+detected new curve left_curverad: 12305.3104562  right_curverad: 1954.72366617
+Frame # 513
+detected curve left_curverad: 221577.686006  right_curverad: 9093.42358602
+left_meanx: 313.24947868   right_meanx: 1001.87374533    diff: 688.624266646
+Frame # 514
+detected new curve left_curverad: 9987.46640734  right_curverad: 19555.5533166
+Frame # 515
+detected curve left_curverad: 9815.06506064  right_curverad: 45962.5896159
+left_meanx: 312.149069767   right_meanx: 999.285140159    diff: 687.136070391
+Frame # 516
+detected new curve left_curverad: 5694.4255067  right_curverad: 13292.0400611
+Frame # 517
+detected curve left_curverad: 8218.06492371  right_curverad: 78721.5559778
+left_meanx: 309.081728466   right_meanx: 1000.78654867    diff: 691.704820207
+Frame # 518
+detected new curve left_curverad: 6609.74779819  right_curverad: 3408.22395395
+Frame # 519
+detected curve left_curverad: 15258.4419546  right_curverad: 2713.2636292
+left_meanx: 309.476896032   right_meanx: 1007.10268582    diff: 697.625789789
+Frame # 520
+detected new curve left_curverad: 10813.6612777  right_curverad: 4608.71829988
+Frame # 521
+detected curve left_curverad: 3442.12202168  right_curverad: 2466.93304318
+left_meanx: 313.555643023   right_meanx: 1015.57945095    diff: 702.023807929
+Frame # 522
+detected new curve left_curverad: 4626.54864096  right_curverad: 2274.66561734
+Frame # 523
+detected curve left_curverad: 6979.10040698  right_curverad: 3028.26757792
+left_meanx: 317.088719951   right_meanx: 1018.55193322    diff: 701.463213272
+Frame # 524
+detected new curve left_curverad: 21017.2646463  right_curverad: 4216.72537345
+Frame # 525
+detected curve left_curverad: 12672.2806929  right_curverad: 5418.03276246
+left_meanx: 324.229701106   right_meanx: 1005.35492475    diff: 681.125223641
+Frame # 526
+detected new curve left_curverad: 25509.371877  right_curverad: 2050.96383397
+Frame # 527
+detected curve left_curverad: 32868.998951  right_curverad: 2898.31719435
+left_meanx: 315.686645786   right_meanx: 1014.58544653    diff: 698.898800741
+Frame # 528
+detected new curve left_curverad: 13038.7134529  right_curverad: 2810.9010751
+Frame # 529
+detected curve left_curverad: 9610.05275402  right_curverad: 1880.73456374
+left_meanx: 314.307476636   right_meanx: 1013.12554873    diff: 698.818072091
+Frame # 530
+detected new curve left_curverad: 12874.7816654  right_curverad: 3451.38983264
+Frame # 531
+detected curve left_curverad: 317402.16516  right_curverad: 2871.24073059
+left_meanx: 324.651877133   right_meanx: 1004.25491866    diff: 679.603041528
+Frame # 532
+detected new curve left_curverad: 3406.44114911  right_curverad: 3697.09891595
+Frame # 533
+detected curve left_curverad: 8248.3510144  right_curverad: 2270.67968294
+detected bad curve left_curverad: 8248.3510144  right_curverad: 2270.67968294
+Frame # 534
+detected new curve left_curverad: 13499.159624  right_curverad: 7473.19053708
+Frame # 535
+detected curve left_curverad: 1800.14857754  right_curverad: 4561.3488511
+detected adjusted curve left_curverad: 3176.58813314  right_curverad: 5665.00203883
+Frame # 536
+detected curve left_curverad: 1565.14224756  right_curverad: 2155.22715902
+left_meanx: 320.667465405   right_meanx: 1006.75110397    diff: 686.08363857
+Frame # 537
+detected new curve left_curverad: 783.559837828  right_curverad: 685.62887691
+Frame # 538
+detected curve left_curverad: 620.327433504  right_curverad: 788.440472186
+left_meanx: 313.083497178   right_meanx: 1016.70146211    diff: 703.617964929
+Frame # 539
+detected new curve left_curverad: 616.22567574  right_curverad: 652.542826017
+Frame # 540
+detected curve left_curverad: 626.728265282  right_curverad: 704.641503718
+left_meanx: 308.140438767   right_meanx: 1020.21733569    diff: 712.076896928
+Frame # 541
+detected new curve left_curverad: 816.993178217  right_curverad: 786.752085097
+Frame # 542
+detected curve left_curverad: 714.065042153  right_curverad: 795.371354854
+left_meanx: 306.883202152   right_meanx: 1016.06230139    diff: 709.179099239
+Frame # 543
+detected new curve left_curverad: 963.500919469  right_curverad: 727.114637506
+Frame # 544
+detected curve left_curverad: 1044.88320182  right_curverad: 2406.09742154
+left_meanx: 306.417616737   right_meanx: 1011.1349937    diff: 704.717376964
+Frame # 545
+detected new curve left_curverad: 1441.91067142  right_curverad: 3438.08188929
+Frame # 546
+detected curve left_curverad: 3871.93334841  right_curverad: 7903.61504851
+left_meanx: 309.224415988   right_meanx: 1007.96555502    diff: 698.741139032
+Frame # 547
+detected new curve left_curverad: 2902.45421606  right_curverad: 1676.55771734
+Frame # 548
+detected curve left_curverad: 1092.9061891  right_curverad: 4497.89076141
+left_meanx: 307.150354394   right_meanx: 1007.38370338    diff: 700.23334899
+Frame # 549
+detected new curve left_curverad: 1373.45680032  right_curverad: 3959.11754341
+Frame # 550
+detected curve left_curverad: 1116.71369068  right_curverad: 5524.04443287
+left_meanx: 300.43313365   right_meanx: 1015.60330507    diff: 715.17017142
+Frame # 551
+detected new curve left_curverad: 1028.67372114  right_curverad: 1114.61437538
+Frame # 552
+detected curve left_curverad: 978.541185568  right_curverad: 982.650282276
+left_meanx: 298.871331151   right_meanx: 1017.3339217    diff: 718.46259055
+Frame # 553
+detected new curve left_curverad: 1300.70288423  right_curverad: 2228.4165741
+Frame # 554
+detected curve left_curverad: 1594.02213164  right_curverad: 677.153345391
+left_meanx: 293.812604652   right_meanx: 1027.41860887    diff: 733.606004217
+Frame # 555
+detected new curve left_curverad: 927.245984528  right_curverad: 1594.72389483
+Frame # 556
+detected curve left_curverad: 802.015920153  right_curverad: 676.621576283
+left_meanx: 303.118014553   right_meanx: 1017.93619806    diff: 714.818183511
+Frame # 557
+detected new curve left_curverad: 1328.83735749  right_curverad: 778.48289853
+Frame # 558
+detected curve left_curverad: 1768.60312458  right_curverad: 2047.20801213
+left_meanx: 308.893044497   right_meanx: 1022.0048656    diff: 713.111821101
+Frame # 559
+detected new curve left_curverad: 2930.13144082  right_curverad: 2783.55428719
+Frame # 560
+detected curve left_curverad: 16318.0157667  right_curverad: 1389.90191062
+left_meanx: 265.069582356   right_meanx: 1085.16226415    diff: 820.092681795
+Frame # 561
+detected new curve left_curverad: 1778.45300139  right_curverad: 2825.25126787
+Frame # 562
+detected curve left_curverad: 1921.16008467  right_curverad: 4954.37715441
+left_meanx: 243.21344969   right_meanx: 1098.96243006    diff: 855.748980366
+Frame # 563
+detected new curve left_curverad: 25746.7555939  right_curverad: 885.866209342
+Frame # 564
+detected curve left_curverad: 7017.5970656  right_curverad: 1039.20111414
+left_meanx: 290.168260736   right_meanx: 1041.32634899    diff: 751.158088256
+Frame # 565
+detected new curve left_curverad: 894.681061456  right_curverad: 881.867366538
+Frame # 566
+detected curve left_curverad: 1680.26513012  right_curverad: 853.701019918
+left_meanx: 311.385536007   right_meanx: 1019.90458816    diff: 708.519052154
+Frame # 567
+detected new curve left_curverad: 15242.3752743  right_curverad: 15279.850888
+Frame # 568
+detected curve left_curverad: 2485.30256689  right_curverad: 2634.5264324
+left_meanx: 323.715206066   right_meanx: 1004.40099185    diff: 680.685785787
+Frame # 569
+detected new curve left_curverad: 3519.69047466  right_curverad: 5444.12137344
+Frame # 570
+detected curve left_curverad: 41803.2797165  right_curverad: 8685.58132357
+left_meanx: 312.337155745   right_meanx: 1019.57266156    diff: 707.235505815
+Frame # 571
+detected new curve left_curverad: 3599.39638015  right_curverad: 1473.87119033
+Frame # 572
+detected curve left_curverad: 6712.95898944  right_curverad: 1679.18008892
+left_meanx: 312.578839787   right_meanx: 1024.31587108    diff: 711.737031295
+Frame # 573
+detected new curve left_curverad: 58977.3658822  right_curverad: 10447.734319
+Frame # 574
+detected curve left_curverad: 2144.71084629  right_curverad: 1650.64270139
+left_meanx: 308.11081839   right_meanx: 1026.24688548    diff: 718.136067091
+Frame # 575
+detected new curve left_curverad: 10319.8225998  right_curverad: 13220.2020449
+Frame # 576
+detected curve left_curverad: 12245.4706676  right_curverad: 2596.55101897
+left_meanx: 317.524383408   right_meanx: 1033.07427678    diff: 715.549893371
+Frame # 577
+detected new curve left_curverad: 7337.3043917  right_curverad: 4389.69946181
+Frame # 578
+detected curve left_curverad: 504735.793924  right_curverad: 1968.29708091
+left_meanx: 324.586323701   right_meanx: 1020.04718657    diff: 695.460862874
+Frame # 579
+detected new curve left_curverad: 12283.2669981  right_curverad: 3871.6354208
+Frame # 580
+detected curve left_curverad: 26698.7487784  right_curverad: 9421.23704354
+left_meanx: 327.073492242   right_meanx: 1012.4203218    diff: 685.346829556
+Frame # 581
+detected new curve left_curverad: 15897.851255  right_curverad: 1384.34370742
+Frame # 582
+detected curve left_curverad: 7673.8008027  right_curverad: 1667.99269707
+left_meanx: 323.858695196   right_meanx: 1013.56842576    diff: 689.709730564
+Frame # 583
+detected new curve left_curverad: 17331.1788584  right_curverad: 1484.71300785
+Frame # 584
+detected curve left_curverad: 3267.51943667  right_curverad: 1121.17954636
+left_meanx: 328.31250869   right_meanx: 1005.49489854    diff: 677.182389854
+Frame # 585
+detected new curve left_curverad: 3318.9419203  right_curverad: 1449.20141475
+Frame # 586
+detected curve left_curverad: 2778.02891576  right_curverad: 1117.80972631
+left_meanx: 326.02638649   right_meanx: 1008.84232135    diff: 682.815934859
+Frame # 587
+detected new curve left_curverad: 3120.29936289  right_curverad: 915.030819182
+Frame # 588
+detected curve left_curverad: 3019.31300705  right_curverad: 613.990982666
+left_meanx: 324.14405968   right_meanx: 1011.2364069    diff: 687.09234722
+Frame # 589
+detected new curve left_curverad: 3877.93270851  right_curverad: 358.07172922
+Frame # 590
+detected curve left_curverad: 5987.40049829  right_curverad: 352.117163742
+left_meanx: 315.103467853   right_meanx: 1026.12878394    diff: 711.025316086
+Frame # 591
+detected new curve left_curverad: 4525.86268341  right_curverad: 388.436493279
+Frame # 592
+detected curve left_curverad: 14566.3158719  right_curverad: 471.380210177
+left_meanx: 309.393790695   right_meanx: 1020.07568513    diff: 710.681894436
+Frame # 593
+detected new curve left_curverad: 585949.29626  right_curverad: 415.112061579
+Frame # 594
+detected curve left_curverad: 5860.01225777  right_curverad: 634.318716139
+left_meanx: 303.029430741   right_meanx: 1014.89955892    diff: 711.870128175
+Frame # 595
+detected new curve left_curverad: 1782.26654273  right_curverad: 1136.95248728
+Frame # 596
+detected curve left_curverad: 4709.40154835  right_curverad: 908.205558724
+left_meanx: 302.002487562   right_meanx: 1012.59451762    diff: 710.59203006
+Frame # 597
+detected new curve left_curverad: 36788.055744  right_curverad: 875.690794941
+Frame # 598
+detected curve left_curverad: 68215.4089728  right_curverad: 778.160201145
+left_meanx: 296.600499896   right_meanx: 1012.81664055    diff: 716.216140651
+Frame # 599
+detected new curve left_curverad: 3226.42505753  right_curverad: 1043.13594184
+Frame # 600
+detected curve left_curverad: 8456.27072858  right_curverad: 904.646289271
+left_meanx: 296.481399835   right_meanx: 1027.10151692    diff: 730.620117085
+Frame # 601
+detected new curve left_curverad: 120642.02269  right_curverad: 857.572536934
+Frame # 602
+detected curve left_curverad: 37783.0942292  right_curverad: 971.855429875
+left_meanx: 284.692225602   right_meanx: 1040.41181217    diff: 755.719586566
+Frame # 603
+detected new curve left_curverad: 6488.16947016  right_curverad: 662.606067798
+Frame # 604
+detected curve left_curverad: 24441.1398815  right_curverad: 631.919594634
+left_meanx: 286.57125039   right_meanx: 1026.23458103    diff: 739.66333064
+Frame # 605
+detected new curve left_curverad: 6541.03607512  right_curverad: 827.935928008
+Frame # 606
+detected curve left_curverad: 1201.91092066  right_curverad: 593.388762167
+left_meanx: 296.919157114   right_meanx: 1040.94160183    diff: 744.022444717
+Frame # 607
+detected new curve left_curverad: 624.307804633  right_curverad: 656.811955077
+Frame # 608
+detected curve left_curverad: 636.417848258  right_curverad: 703.155566014
+left_meanx: 296.603862579   right_meanx: 1022.83142715    diff: 726.227564572
+Frame # 609
+detected new curve left_curverad: 1018.1098549  right_curverad: 613.86232379
+Frame # 610
+detected curve left_curverad: 653.233354417  right_curverad: 625.195030739
+left_meanx: 290.201825373   right_meanx: 1024.24379639    diff: 734.041971022
+Frame # 611
+detected new curve left_curverad: 599.099548969  right_curverad: 531.705792434
+Frame # 612
+detected curve left_curverad: 559.271697744  right_curverad: 477.862253185
+left_meanx: 290.623884272   right_meanx: 1014.8592413    diff: 724.235357029
+Frame # 613
+detected new curve left_curverad: 669.283079921  right_curverad: 624.467839553
+Frame # 614
+detected curve left_curverad: 671.612913181  right_curverad: 513.452412011
+left_meanx: 295.784958014   right_meanx: 1029.01818762    diff: 733.233229606
+Frame # 615
+detected new curve left_curverad: 648.834499395  right_curverad: 395.295515732
+Frame # 616
+detected curve left_curverad: 662.676407039  right_curverad: 474.276065182
+left_meanx: 294.49054543   right_meanx: 1036.25983396    diff: 741.76928853
+Frame # 617
+detected new curve left_curverad: 650.374090849  right_curverad: 1448.55691357
+Frame # 618
+detected curve left_curverad: 702.012882394  right_curverad: 3550.15852858
+left_meanx: 303.49927683   right_meanx: 1028.05331346    diff: 724.554036631
+Frame # 619
+detected new curve left_curverad: 529.181911644  right_curverad: 1034.66219676
+Frame # 620
+detected curve left_curverad: 773.154816641  right_curverad: 1043.50955027
+left_meanx: 312.416076845   right_meanx: 1020.60920566    diff: 708.193128816
+Frame # 621
+detected new curve left_curverad: 621.128553939  right_curverad: 1207.68052302
+Frame # 622
+detected curve left_curverad: 620.29350629  right_curverad: 1643.8027611
+left_meanx: 326.168496158   right_meanx: 1026.94591961    diff: 700.777423452
+Frame # 623
+detected new curve left_curverad: 527.193907609  right_curverad: 2186.13538962
+Frame # 624
+detected curve left_curverad: 466.439642521  right_curverad: 1919.02768349
+left_meanx: 321.428135817   right_meanx: 1034.08908686    diff: 712.660951043
+Frame # 625
+detected new curve left_curverad: 410.908414891  right_curverad: 1169.77772749
+Frame # 626
+detected curve left_curverad: 344.234407363  right_curverad: 1216.00011629
+left_meanx: 335.540403507   right_meanx: 1037.34161561    diff: 701.801212105
+Frame # 627
+detected new curve left_curverad: 331.361790135  right_curverad: 867.859967908
+Frame # 628
+detected curve left_curverad: 349.920382742  right_curverad: 1120.3626215
+left_meanx: 350.34416499   right_meanx: 1032.44080742    diff: 682.09664243
+Frame # 629
+detected new curve left_curverad: 499.870465049  right_curverad: 504.414685011
+Frame # 630
+detected curve left_curverad: 649.341793507  right_curverad: 657.690197179
+left_meanx: 376.066365517   right_meanx: 1083.03819634    diff: 706.971830828
+Frame # 631
+detected new curve left_curverad: 780.052725326  right_curverad: 407.866912619
+Frame # 632
+detected curve left_curverad: 873.516735962  right_curverad: 534.536260562
+left_meanx: 340.263226343   right_meanx: 1105.76081298    diff: 765.497586632
+Frame # 633
+detected new curve left_curverad: 848.943056243  right_curverad: 485.328084177
+Frame # 634
+detected curve left_curverad: 665.622146423  right_curverad: 760.837046712
+left_meanx: 356.872192627   right_meanx: 1077.0231456    diff: 720.15095297
+Frame # 635
+detected new curve left_curverad: 641.327742974  right_curverad: 932.9197815
+Frame # 636
+detected curve left_curverad: 680.012990859  right_curverad: 784.272991463
+left_meanx: 375.109373235   right_meanx: 1055.78412432    diff: 680.674751082
+Frame # 637
+detected new curve left_curverad: 635.126493552  right_curverad: 654.91336196
+Frame # 638
+detected curve left_curverad: 765.41246589  right_curverad: 653.727844288
+detected adjusted curve left_curverad: 694.21270336  right_curverad: 654.319980104
+Frame # 639
+detected curve left_curverad: 994.949348784  right_curverad: 688.54500987
+detected adjusted curve left_curverad: 771.999058407  right_curverad: 665.342852675
+Frame # 640
+detected curve left_curverad: 974.726989816  right_curverad: 822.413846358
+left_meanx: 375.028902821   right_meanx: 1070.29642096    diff: 695.267518137
+Frame # 641
+detected new curve left_curverad: 899.584211989  right_curverad: 540.75992925
+Frame # 642
+detected curve left_curverad: 881.679148819  right_curverad: 609.778151636
+left_meanx: 385.048172058   right_meanx: 1111.81196413    diff: 726.763792069
+Frame # 643
+detected new curve left_curverad: 1043.74089697  right_curverad: 420.800553108
+Frame # 644
+detected curve left_curverad: 1003.47681277  right_curverad: 423.493526982
+left_meanx: 398.053732221   right_meanx: 1079.36351039    diff: 681.309778172
+Frame # 645
+detected new curve left_curverad: 984.211185044  right_curverad: 567.387817609
+Frame # 646
+detected curve left_curverad: 1186.74270774  right_curverad: 591.559321221
+detected adjusted curve left_curverad: 1076.0311852  right_curverad: 579.221425303
+Frame # 647
+detected curve left_curverad: 979.928599297  right_curverad: 591.216059813
+detected adjusted curve left_curverad: 1041.96925022  right_curverad: 583.164981824
+Frame # 648
+detected curve left_curverad: 1066.01269053  right_curverad: 835.570493896
+detected adjusted curve left_curverad: 1047.87755872  right_curverad: 630.803789897
+Frame # 649
+detected curve left_curverad: 1570.70941218  right_curverad: 864.917234313
+detected adjusted curve left_curverad: 1122.61837011  right_curverad: 666.90905546
+Frame # 650
+detected curve left_curverad: 1591.45470644  right_curverad: 888.446629666
+detected adjusted curve left_curverad: 1229.65317124  right_curverad: 728.825640048
+Frame # 651
+detected curve left_curverad: 1581.6260421  right_curverad: 871.315329695
+left_meanx: 390.458528347   right_meanx: 1071.87695726    diff: 681.41842891
+Frame # 652
+detected new curve left_curverad: 1095.37385207  right_curverad: 669.666831167
+Frame # 653
+detected curve left_curverad: 996.343511806  right_curverad: 757.618759862
+left_meanx: 393.73024703   right_meanx: 1076.40649351    diff: 682.676246477
+Frame # 654
+detected new curve left_curverad: 807.943353392  right_curverad: 454.955070884
+Frame # 655
+detected curve left_curverad: 767.64749101  right_curverad: 450.150612019
+detected adjusted curve left_curverad: 787.280137695  right_curverad: 452.539972545
+Frame # 656
+detected curve left_curverad: 730.934789883  right_curverad: 597.149052666
+detected adjusted curve left_curverad: 767.557073111  right_curverad: 492.264794387
+Frame # 657
+detected curve left_curverad: 682.264272634  right_curverad: 726.933010559
+detected adjusted curve left_curverad: 744.294515666  right_curverad: 535.468556552
+Frame # 658
+detected curve left_curverad: 699.559918466  right_curverad: 736.356228417
+detected adjusted curve left_curverad: 734.895638128  right_curverad: 566.366195042
+Frame # 659
+detected curve left_curverad: 693.081907615  right_curverad: 714.786235742
+detected adjusted curve left_curverad: 713.3881769  right_curverad: 622.739603385
+Frame # 660
+detected curve left_curverad: 714.645068413  right_curverad: 1066.1478073
+detected adjusted curve left_curverad: 703.688031631  right_curverad: 741.262055109
+Frame # 661
+detected curve left_curverad: 693.565712467  right_curverad: 1189.16207407
+detected adjusted curve left_curverad: 696.462697558  right_curverad: 845.809287389
+Frame # 662
+detected curve left_curverad: 704.81210366  right_curverad: 1265.76802817
+detected adjusted curve left_curverad: 701.04150571  right_curverad: 938.816278592
+Frame # 663
+detected curve left_curverad: 714.059446779  right_curverad: 1231.25269332
+left_meanx: 387.91473523   right_meanx: 1062.93112979    diff: 675.016394563
+Frame # 664
+detected new curve left_curverad: 743.613653907  right_curverad: 1177.84972719
+Frame # 665
+detected curve left_curverad: 734.253923793  right_curverad: 1067.89733732
+left_meanx: 389.488348851   right_meanx: 1078.02580443    diff: 688.537455579
+Frame # 666
+detected new curve left_curverad: 788.511021288  right_curverad: 570.523613762
+Frame # 667
+detected curve left_curverad: 792.241520841  right_curverad: 528.478695909
+detected adjusted curve left_curverad: 790.37186865  right_curverad: 548.695414316
+Frame # 668
+detected curve left_curverad: 780.739424512  right_curverad: 554.948195817
+detected adjusted curve left_curverad: 787.134311129  right_curverad: 550.763564768
+Frame # 669
+detected curve left_curverad: 863.297817655  right_curverad: 612.66534775
+detected adjusted curve left_curverad: 804.886902484  right_curverad: 565.03356764
+Frame # 670
+detected curve left_curverad: 942.779816815  right_curverad: 821.552027211
+detected adjusted curve left_curverad: 829.141311777  right_curverad: 602.660433036
+Frame # 671
+detected curve left_curverad: 869.078461705  right_curverad: 791.179019498
+detected adjusted curve left_curverad: 845.62785438  right_curverad: 640.389990677
+Frame # 672
+detected curve left_curverad: 925.618716791  right_curverad: 695.04870223
+detected adjusted curve left_curverad: 872.465345713  right_curverad: 679.887627666
+Frame # 673
+detected curve left_curverad: 1150.75636722  right_curverad: 959.212275735
+detected adjusted curve left_curverad: 940.018409205  right_curverad: 758.191337459
+Frame # 674
+detected curve left_curverad: 1297.92917129  right_curverad: 1081.9317872
+detected adjusted curve left_curverad: 1013.9616253  right_curverad: 849.377828412
+Frame # 675
+detected curve left_curverad: 1360.59106441  right_curverad: 1071.32901506
+detected adjusted curve left_curverad: 1085.67497597  right_curverad: 892.400945581
+Frame # 676
+detected curve left_curverad: 1171.84628997  right_curverad: 979.659977306
+detected adjusted curve left_curverad: 1160.59521178  right_curverad: 932.889181729
+Frame # 677
+detected curve left_curverad: 1196.5240414  right_curverad: 935.843410241
+detected adjusted curve left_curverad: 1230.45569548  right_curverad: 1002.09866303
+Frame # 678
+detected curve left_curverad: 1287.19254729  right_curverad: 845.074712514
+detected adjusted curve left_curverad: 1258.99394494  right_curverad: 974.596760941
+Frame # 679
+detected curve left_curverad: 1134.20955015  right_curverad: 699.549209486
+detected adjusted curve left_curverad: 1224.69815626  right_curverad: 887.224906966
+Frame # 680
+detected curve left_curverad: 1102.80545004  right_curverad: 631.456133145
+detected adjusted curve left_curverad: 1175.24123339  right_curverad: 795.444776089
+Frame # 681
+detected curve left_curverad: 1094.04156263  right_curverad: 812.635502654
+detected adjusted curve left_curverad: 1158.71304161  right_curverad: 769.752278709
+Frame # 682
+detected curve left_curverad: 1315.92813171  right_curverad: 709.448635093
+detected adjusted curve left_curverad: 1179.44165419  right_curverad: 731.359025029
+Frame # 683
+detected curve left_curverad: 1426.26732266  right_curverad: 856.005977803
+detected adjusted curve left_curverad: 1200.90194966  right_curverad: 732.979527616
+Frame # 684
+detected curve left_curverad: 1336.08075949  right_curverad: 602.168868535
+detected adjusted curve left_curverad: 1240.59471851  right_curverad: 708.953794661
+Frame # 685
+detected curve left_curverad: 1376.25471168  right_curverad: 788.633903474
+detected adjusted curve left_curverad: 1298.64749658  right_curverad: 742.168927318
+Frame # 686
+detected curve left_curverad: 1344.73178928  right_curverad: 957.517498031
+detected adjusted curve left_curverad: 1358.78319215  right_curverad: 763.264674619
+Frame # 687
+detected curve left_curverad: 1345.46611048  right_curverad: 964.069999381
+detected adjusted curve left_curverad: 1364.97202437  right_curverad: 809.254871446
+Frame # 688
+detected curve left_curverad: 1311.11395061  right_curverad: 990.170193401
+detected adjusted curve left_curverad: 1342.40507072  right_curverad: 830.533203877
+Frame # 689
+detected curve left_curverad: 1197.37154477  right_curverad: 989.568651977
+left_meanx: 391.882857143   right_meanx: 1073.29703072    diff: 681.414173577
+Frame # 690
+detected new curve left_curverad: 1050.77496731  right_curverad: 717.558832713
+Frame # 691
+detected curve left_curverad: 909.302474129  right_curverad: 720.462946634
+left_meanx: 393.644770788   right_meanx: 1074.30544148    diff: 680.660670691
+Frame # 692
+detected new curve left_curverad: 651.397952199  right_curverad: 510.485481537
+Frame # 693
+detected curve left_curverad: 637.571513075  right_curverad: 610.919108469
+detected adjusted curve left_curverad: 644.410552481  right_curverad: 556.19703906
+Frame # 694
+detected curve left_curverad: 631.457798136  right_curverad: 801.503666583
+detected adjusted curve left_curverad: 640.034320817  right_curverad: 619.373704499
+Frame # 695
+detected curve left_curverad: 620.247455737  right_curverad: 849.693216246
+detected adjusted curve left_curverad: 634.970187589  right_curverad: 664.39242217
+Frame # 696
+detected curve left_curverad: 616.043608119  right_curverad: 836.649110666
+detected adjusted curve left_curverad: 631.092396745  right_curverad: 692.923552201
+Frame # 697
+detected curve left_curverad: 669.740540201  right_curverad: 1185.82627317
+detected adjusted curve left_curverad: 634.457040888  right_curverad: 819.675723755
+Frame # 698
+detected curve left_curverad: 677.764300019  right_curverad: 988.757343143
+detected adjusted curve left_curverad: 642.032141138  right_curverad: 913.335900525
+Frame # 699
+detected curve left_curverad: 698.88805788  right_curverad: 1041.31467871
+detected adjusted curve left_curverad: 654.879003548  right_curverad: 963.928027201
+Frame # 700
+detected curve left_curverad: 661.390024079  right_curverad: 900.621744769
+detected adjusted curve left_curverad: 663.597049155  right_curverad: 976.455215186
+Frame # 701
+detected curve left_curverad: 696.558360948  right_curverad: 847.648004576
+detected adjusted curve left_curverad: 680.547523802  right_curverad: 979.421028586
+Frame # 702
+detected curve left_curverad: 697.453239317  right_curverad: 846.353248842
+detected adjusted curve left_curverad: 686.088944516  right_curverad: 918.558604814
+Frame # 703
+detected curve left_curverad: 708.261629066  right_curverad: 797.87721041
+detected adjusted curve left_curverad: 692.123510555  right_curverad: 879.466221357
+Frame # 704
+detected curve left_curverad: 690.260534388  right_curverad: 730.75535071
+left_meanx: 415.606333995   right_meanx: 1055.06938776    diff: 639.46305376
+Frame # 705
+detected new curve left_curverad: 710.173106487  right_curverad: 562.400312315
+Frame # 706
+detected curve left_curverad: 757.137040676  right_curverad: 592.500186448
+left_meanx: 411.705973101   right_meanx: 1051.22639801    diff: 639.520424906
+Frame # 707
+detected new curve left_curverad: 810.863611406  right_curverad: 537.859665873
+Frame # 708
+detected curve left_curverad: 793.167956282  right_curverad: 518.877532333
+left_meanx: 398.55192356   right_meanx: 1035.76791065    diff: 637.215987091
+Frame # 709
+detected new curve left_curverad: 813.073335755  right_curverad: 742.02195859
+Frame # 710
+detected curve left_curverad: 844.723438398  right_curverad: 789.61619304
+detected adjusted curve left_curverad: 828.596250648  right_curverad: 765.07915186
+Frame # 711
+detected curve left_curverad: 884.105278948  right_curverad: 809.821223838
+detected adjusted curve left_curverad: 846.308286713  right_curverad: 779.433090729
+Frame # 712
+detected curve left_curverad: 868.495237417  right_curverad: 816.978041435
+detected adjusted curve left_curverad: 851.747966498  right_curverad: 788.491512753
+Frame # 713
+detected curve left_curverad: 903.328101336  right_curverad: 803.213103262
+detected adjusted curve left_curverad: 861.587314209  right_curverad: 791.391855787
+Frame # 714
+detected curve left_curverad: 931.794241171  right_curverad: 739.164598275
+detected adjusted curve left_curverad: 885.498063125  right_curverad: 790.740931118
+Frame # 715
+detected curve left_curverad: 956.22251883  right_curverad: 666.934303859
+detected adjusted curve left_curverad: 907.687604741  right_curverad: 762.643432529
+Frame # 716
+detected curve left_curverad: 900.213514456  right_curverad: 559.834990802
+detected adjusted curve left_curverad: 911.034934665  right_curverad: 703.472603881
+Frame # 717
+detected curve left_curverad: 925.429974679  right_curverad: 543.914354349
+detected adjusted curve left_curverad: 922.947530608  right_curverad: 647.490656406
+Frame # 718
+detected curve left_curverad: 1051.79208798  right_curverad: 623.7052945
+detected adjusted curve left_curverad: 950.359715635  right_curverad: 618.779596311
+Frame # 719
+detected curve left_curverad: 1186.27710308  right_curverad: 666.178518376
+detected adjusted curve left_curverad: 993.850710649  right_curverad: 607.632370704
+Frame # 720
+detected curve left_curverad: 1136.99246677  right_curverad: 648.02045942
+detected adjusted curve left_curverad: 1027.81986122  right_curverad: 604.415617525
+Frame # 721
+detected curve left_curverad: 980.745868733  right_curverad: 615.338873425
+detected adjusted curve left_curverad: 1047.4598465  right_curverad: 616.424405677
+Frame # 722
+detected curve left_curverad: 1052.52845827  right_curverad: 624.671216174
+detected adjusted curve left_curverad: 1076.89712953  right_curverad: 635.03645058
+Frame # 723
+detected curve left_curverad: 977.321448498  right_curverad: 931.213779753
+detected adjusted curve left_curverad: 1060.35200326  right_curverad: 680.820347066
+Frame # 724
+detected curve left_curverad: 1031.17332577  right_curverad: 964.558017092
+detected adjusted curve left_curverad: 1032.58594827  right_curverad: 726.776814151
+Frame # 725
+detected curve left_curverad: 1086.22091595  right_curverad: 1005.33030572
+detected adjusted curve left_curverad: 1023.8931528  right_curverad: 789.740414522
+Frame # 726
+detected curve left_curverad: 893.525213195  right_curverad: 953.493506108
+left_meanx: 403.558232132   right_meanx: 1090.43847608    diff: 686.880243945
+Frame # 727
+detected new curve left_curverad: 856.071215534  right_curverad: 615.66830098
+Frame # 728
+detected curve left_curverad: 741.369240731  right_curverad: 549.061022758
+left_meanx: 420.287800817   right_meanx: 1104.22337278    diff: 683.935571964
+Frame # 729
+detected new curve left_curverad: 695.491481176  right_curverad: 378.173411921
+Frame # 730
+detected curve left_curverad: 719.183410772  right_curverad: 400.403545075
+detected adjusted curve left_curverad: 707.138901289  right_curverad: 388.967795087
+Frame # 731
+detected curve left_curverad: 710.797512186  right_curverad: 564.728968932
+detected adjusted curve left_curverad: 708.35384291  right_curverad: 433.964370193
+Frame # 732
+detected curve left_curverad: 778.655148932  right_curverad: 594.180320778
+detected adjusted curve left_curverad: 724.709202302  right_curverad: 465.319685271
+Frame # 733
+detected curve left_curverad: 683.067670843  right_curverad: 649.932645261
+left_meanx: 432.621270212   right_meanx: 1067.7459654    diff: 635.124695189
+Frame # 734
+detected new curve left_curverad: 694.647865963  right_curverad: 817.959956337
+Frame # 735
+detected curve left_curverad: 765.446987492  right_curverad: 918.006765281
+detected adjusted curve left_curverad: 728.330975265  right_curverad: 865.101368383
+Frame # 736
+detected curve left_curverad: 689.05836023  right_curverad: 873.286644043
+detected adjusted curve left_curverad: 714.751972566  right_curverad: 867.812586328
+Frame # 737
+detected curve left_curverad: 692.025194798  right_curverad: 855.156850576
+detected adjusted curve left_curverad: 708.931443734  right_curverad: 864.613534214
+Frame # 738
+detected curve left_curverad: 693.847340884  right_curverad: 766.600140421
+detected adjusted curve left_curverad: 705.86235268  right_curverad: 843.056565419
+Frame # 739
+detected curve left_curverad: 695.117629157  right_curverad: 746.241491742
+detected adjusted curve left_curverad: 705.959221978  right_curverad: 826.6801977
+Frame # 740
+detected curve left_curverad: 666.425622407  right_curverad: 615.877535792
+detected adjusted curve left_curverad: 687.126624981  right_curverad: 759.569947417
+Frame # 741
+detected curve left_curverad: 679.766348862  right_curverad: 617.748016228
+left_meanx: 447.505155418   right_meanx: 1084.41012101    diff: 636.904965594
+Frame # 742
+detected new curve left_curverad: 674.483091944  right_curverad: 465.526925539
+Frame # 743
+detected curve left_curverad: 730.146143962  right_curverad: 495.634416067
+left_meanx: 444.791503351   right_meanx: 1074.2416246    diff: 629.450121248
+Frame # 744
+detected new curve left_curverad: 669.654323174  right_curverad: 498.019491181
+Frame # 745
+detected curve left_curverad: 657.391339684  right_curverad: 633.696992749
+left_meanx: 452.122266696   right_meanx: 1070.70674293    diff: 618.584476236
+Frame # 746
+detected new curve left_curverad: 707.336495837  right_curverad: 670.746363464
+Frame # 747
+detected curve left_curverad: 855.300886631  right_curverad: 736.015543553
+left_meanx: 445.915839905   right_meanx: 1084.25024417    diff: 638.334404262
+Frame # 748
+detected new curve left_curverad: 920.039781194  right_curverad: 724.542838313
+Frame # 749
+detected curve left_curverad: 997.529645928  right_curverad: 753.802162671
+detected adjusted curve left_curverad: 957.21936052  right_curverad: 738.882418649
+Frame # 750
+detected curve left_curverad: 1090.54920346  right_curverad: 692.041098003
+detected adjusted curve left_curverad: 997.887261928  right_curverad: 722.579871878
+Frame # 751
+detected curve left_curverad: 1081.93262879  right_curverad: 634.756801985
+detected adjusted curve left_curverad: 1017.65054747  right_curverad: 698.422780838
+Frame # 752
+detected curve left_curverad: 939.577468232  right_curverad: 586.128106323
+detected adjusted curve left_curverad: 1001.01484875  right_curverad: 672.649728564
+Frame # 753
+detected curve left_curverad: 913.257242696  right_curverad: 529.021464983
+detected adjusted curve left_curverad: 999.399787814  right_curverad: 629.45505732
+Frame # 754
+detected curve left_curverad: 977.88275815  right_curverad: 571.9520634
+detected adjusted curve left_curverad: 995.392038446  right_curverad: 597.715331075
+Frame # 755
+detected curve left_curverad: 936.418703476  right_curverad: 548.455776433
+detected adjusted curve left_curverad: 966.355253467  right_curverad: 571.853592574
+Frame # 756
+detected curve left_curverad: 982.848873018  right_curverad: 549.316779011
+detected adjusted curve left_curverad: 949.259667708  right_curverad: 556.263776892
+Frame # 757
+detected curve left_curverad: 964.835067675  right_curverad: 537.556297178
+detected adjusted curve left_curverad: 954.308120247  right_curverad: 546.883993334
+Frame # 758
+detected curve left_curverad: 1045.89976269  right_curverad: 566.174075991
+detected adjusted curve left_curverad: 980.290023864  right_curverad: 554.404975056
+Frame # 759
+detected curve left_curverad: 1051.36827521  right_curverad: 861.514714794
+detected adjusted curve left_curverad: 994.222236018  right_curverad: 593.053971613
+Frame # 760
+detected curve left_curverad: 1032.7851591  right_curverad: 928.413114588
+detected adjusted curve left_curverad: 1014.31969534  right_curverad: 650.650575927
+Frame # 761
+detected curve left_curverad: 1053.1157667  right_curverad: 931.460596863
+detected adjusted curve left_curverad: 1028.48419946  right_curverad: 720.698345157
+Frame # 762
+detected curve left_curverad: 1088.42926932  right_curverad: 915.150596807
+left_meanx: 452.715814299   right_meanx: 1138.77784634    diff: 686.062032045
+Frame # 763
+detected new curve left_curverad: 984.769149983  right_curverad: 548.178553269
+Frame # 764
+detected curve left_curverad: 767.46982226  right_curverad: 531.939898042
+left_meanx: 458.788708918   right_meanx: 1155.49306008    diff: 696.704351166
+Frame # 765
+detected new curve left_curverad: 758.642174547  right_curverad: 368.735859932
+Frame # 766
+detected curve left_curverad: 703.430967  right_curverad: 377.948569818
+detected adjusted curve left_curverad: 729.994113916  right_curverad: 373.284128855
+Frame # 767
+detected curve left_curverad: 678.981111654  right_curverad: 511.429806708
+detected adjusted curve left_curverad: 712.158576799  right_curverad: 410.200244137
+Frame # 768
+detected curve left_curverad: 664.99770868  right_curverad: 576.290423654
+detected adjusted curve left_curverad: 699.752167861  right_curverad: 442.037322928
+Frame # 769
+detected curve left_curverad: 601.833813513  right_curverad: 538.901815818
+detected adjusted curve left_curverad: 677.699713118  right_curverad: 458.516945684
+Frame # 770
+detected curve left_curverad: 636.36074483  right_curverad: 907.200926056
+detected adjusted curve left_curverad: 655.205636999  right_curverad: 537.943041359
+Frame # 771
+detected curve left_curverad: 673.291208417  right_curverad: 1102.89992152
+detected adjusted curve left_curverad: 649.78629452  right_curverad: 661.811158778
+Frame # 772
+detected curve left_curverad: 745.334806342  right_curverad: 1162.8977481
+detected adjusted curve left_curverad: 661.050098685  right_curverad: 774.047305371
+Frame # 773
+detected curve left_curverad: 775.038252022  right_curverad: 1125.30637331
+left_meanx: 453.854094773   right_meanx: 1129.39055533    diff: 675.536460557
+Frame # 774
+detected new curve left_curverad: 758.849351132  right_curverad: 788.844443281
+Frame # 775
+detected curve left_curverad: 759.498882175  right_curverad: 762.614165921
+left_meanx: 453.82182496   right_meanx: 1143.52472165    diff: 689.702896686
+Frame # 776
+detected new curve left_curverad: 696.027605524  right_curverad: 456.143913882
+Frame # 777
+detected curve left_curverad: 663.077867976  right_curverad: 481.875534104
+detected adjusted curve left_curverad: 679.15325638  right_curverad: 468.655583635
+Frame # 778
+detected curve left_curverad: 680.561115939  right_curverad: 506.420362029
+detected adjusted curve left_curverad: 679.621428296  right_curverad: 480.601553501
+Frame # 779
+detected curve left_curverad: 725.364463459  right_curverad: 507.977999676
+detected adjusted curve left_curverad: 690.506961244  right_curverad: 487.165072081
+Frame # 780
+detected curve left_curverad: 778.47407744  right_curverad: 517.226146967
+detected adjusted curve left_curverad: 706.472696567  right_curverad: 492.893946063
+Frame # 781
+detected curve left_curverad: 795.527587856  right_curverad: 525.551546625
+detected adjusted curve left_curverad: 724.877893401  right_curverad: 507.375780164
+Frame # 782
+detected curve left_curverad: 912.075107592  right_curverad: 544.244149335
+detected adjusted curve left_curverad: 770.892739068  right_curverad: 519.920923423
+Frame # 783
+detected curve left_curverad: 1071.05801602  right_curverad: 869.398829317
+detected adjusted curve left_curverad: 840.298916497  right_curverad: 568.665118244
+Frame # 784
+detected curve left_curverad: 1217.44161262  right_curverad: 889.198200253
+detected adjusted curve left_curverad: 927.121594919  right_curverad: 629.048754312
+Frame # 785
+detected curve left_curverad: 1136.91224804  right_curverad: 886.550388356
+detected adjusted curve left_curverad: 1002.39593381  right_curverad: 699.984624115
+Frame # 786
+detected curve left_curverad: 1088.08170246  right_curverad: 797.4851488
+left_meanx: 445.559167579   right_meanx: 1126.04513985    diff: 680.485972271
+Frame # 787
+detected new curve left_curverad: 1058.65100498  right_curverad: 562.30230006
+Frame # 788
+detected curve left_curverad: 828.437590193  right_curverad: 447.958699993
+detected adjusted curve left_curverad: 929.499778468  right_curverad: 498.644820724
+Frame # 789
+detected curve left_curverad: 875.084609127  right_curverad: 346.106220436
+detected adjusted curve left_curverad: 910.624748623  right_curverad: 434.72326964
+Frame # 790
+detected curve left_curverad: 863.278248198  right_curverad: 492.30416006
+detected adjusted curve left_curverad: 898.307832778  right_curverad: 447.814244248
+Frame # 791
+detected curve left_curverad: 944.16643793  right_curverad: 523.312073798
+detected adjusted curve left_curverad: 907.119658775  right_curverad: 461.114930088
+Frame # 792
+detected curve left_curverad: 1030.55440108  right_curverad: 543.241302689
+detected adjusted curve left_curverad: 902.90138851  right_curverad: 458.476884612
+Frame # 793
+detected curve left_curverad: 1125.61690127  right_curverad: 528.119694483
+detected adjusted curve left_curverad: 958.036034446  right_curverad: 473.174115722
+Frame # 794
+detected curve left_curverad: 1186.28248683  right_curverad: 957.957680959
+detected adjusted curve left_curverad: 1016.41870187  right_curverad: 573.354883645
+Frame # 795
+detected curve left_curverad: 1358.59763235  right_curverad: 1015.87843714
+detected adjusted curve left_curverad: 1111.87495536  right_curverad: 651.579682593
+Frame # 796
+detected curve left_curverad: 1585.346377  right_curverad: 1024.94938349
+detected adjusted curve left_curverad: 1228.94037285  right_curverad: 742.02485489
+Frame # 797
+detected curve left_curverad: 1911.63075884  right_curverad: 968.885288092
+detected adjusted curve left_curverad: 1380.71982956  right_curverad: 843.230590155
+Frame # 798
+detected curve left_curverad: 1846.3324418  right_curverad: 924.684564768
+detected adjusted curve left_curverad: 1526.94372895  right_curverad: 977.043033168
+Frame # 799
+detected curve left_curverad: 1782.95597696  right_curverad: 793.183721838
+detected adjusted curve left_curverad: 1670.885984  right_curverad: 937.32388561
+Frame # 800
+detected curve left_curverad: 1693.30640216  right_curverad: 621.973014497
+detected adjusted curve left_curverad: 1756.26982793  right_curverad: 839.234708033
+Frame # 801
+detected curve left_curverad: 1520.87939567  right_curverad: 623.17394872
+detected adjusted curve left_curverad: 1739.92617249  right_curverad: 759.086231259
+Frame # 802
+detected curve left_curverad: 1615.55756252  right_curverad: 575.86945797
+detected adjusted curve left_curverad: 1683.7537567  right_curverad: 685.751926768
+Frame # 803
+detected curve left_curverad: 1549.57109208  right_curverad: 931.037390039
+detected adjusted curve left_curverad: 1626.92916829  right_curverad: 686.447140892
+Frame # 804
+detected curve left_curverad: 1447.76054015  right_curverad: 856.191831661
+detected adjusted curve left_curverad: 1560.97688466  right_curverad: 695.305001372
+Frame # 805
+detected curve left_curverad: 1213.49102573  right_curverad: 2172.09759993
+left_meanx: 439.737727236   right_meanx: 1071.85371653    diff: 632.115989294
+Frame # 806
+detected new curve left_curverad: 1330.37340526  right_curverad: 2370.80246555
+Frame # 807
+detected curve left_curverad: 1314.18325829  right_curverad: 2217.08377953
+detected adjusted curve left_curverad: 1322.22835052  right_curverad: 2291.36828788
+Frame # 808
+detected curve left_curverad: 1145.21911297  right_curverad: 1651.9739485
+detected adjusted curve left_curverad: 1257.44187446  right_curverad: 2029.53561364
+Frame # 809
+detected curve left_curverad: 1112.00407447  right_curverad: 1604.27949856
+detected adjusted curve left_curverad: 1217.62505555  right_curverad: 1903.40238204
+Frame # 810
+detected curve left_curverad: 1038.43122761  right_curverad: 1400.74877724
+detected adjusted curve left_curverad: 1176.99746621  right_curverad: 1775.94828438
+Frame # 811
+detected curve left_curverad: 848.306726386  right_curverad: 940.254429092
+detected adjusted curve left_curverad: 1069.44862968  right_curverad: 1446.28097698
+Frame # 812
+detected curve left_curverad: 749.054344916  right_curverad: 720.731879415
+left_meanx: 413.690553746   right_meanx: 1095.75869565    diff: 682.068141906
+Frame # 813
+detected new curve left_curverad: 726.844828836  right_curverad: 501.861965768
+Frame # 814
+detected curve left_curverad: 710.679394813  right_curverad: 436.37310292
+left_meanx: 407.046065113   right_meanx: 1085.3018728    diff: 678.255807685
+Frame # 815
+detected new curve left_curverad: 715.712785546  right_curverad: 549.929903145
+Frame # 816
+detected curve left_curverad: 672.532394655  right_curverad: 499.045693933
+detected adjusted curve left_curverad: 693.451156819  right_curverad: 523.248702918
+Frame # 817
+detected curve left_curverad: 720.381700717  right_curverad: 577.97014485
+left_meanx: 416.023760576   right_meanx: 1051.39023341    diff: 635.366472833
+Frame # 818
+detected new curve left_curverad: 776.524200262  right_curverad: 731.593657013
+Frame # 819
+detected curve left_curverad: 807.601327814  right_curverad: 718.399122703
+detected adjusted curve left_curverad: 791.75792923  right_curverad: 724.936262556
+Frame # 820
+detected curve left_curverad: 853.255620128  right_curverad: 730.382886821
+detected adjusted curve left_curverad: 811.247474135  right_curverad: 726.741948243
+Frame # 821
+detected curve left_curverad: 936.603290817  right_curverad: 694.486217774
+detected adjusted curve left_curverad: 839.330906985  right_curverad: 718.400156077
+Frame # 822
+detected curve left_curverad: 1061.11081858  right_curverad: 678.014369462
+left_meanx: 398.079057886   right_meanx: 1076.70328447    diff: 678.624226582
+Frame # 823
+detected new curve left_curverad: 1092.23850528  right_curverad: 544.032959904
+Frame # 824
+detected curve left_curverad: 1062.47500555  right_curverad: 581.371326296
+left_meanx: 398.130847657   right_meanx: 1079.7690366    diff: 681.638188944
+Frame # 825
+detected new curve left_curverad: 1193.90187338  right_curverad: 543.93416385
+Frame # 826
+detected curve left_curverad: 1028.82802696  right_curverad: 556.685203698
+detected adjusted curve left_curverad: 1105.23454625  right_curverad: 550.235666522
+Frame # 827
+detected curve left_curverad: 1017.71813606  right_curverad: 612.467888749
+detected adjusted curve left_curverad: 1074.43658056  right_curverad: 569.523067042
+Frame # 828
+detected curve left_curverad: 976.657634215  right_curverad: 609.836196398
+detected adjusted curve left_curverad: 1048.2008775  right_curverad: 579.091993471
+Frame # 829
+detected curve left_curverad: 1042.95493195  right_curverad: 531.994993741
+detected adjusted curve left_curverad: 1047.14728338  right_curverad: 569.017053769
+Frame # 830
+detected curve left_curverad: 1122.09245993  right_curverad: 712.504047838
+detected adjusted curve left_curverad: 1035.52230082  right_curverad: 598.646736317
+Frame # 831
+detected curve left_curverad: 1098.66914503  right_curverad: 776.909888785
+detected adjusted curve left_curverad: 1048.94518257  right_curverad: 637.511809524
+Frame # 832
+detected curve left_curverad: 1049.92876398  right_curverad: 778.464581679
+detected adjusted curve left_curverad: 1055.62085127  right_curverad: 667.124731325
+Frame # 833
+detected curve left_curverad: 1016.80551308  right_curverad: 760.22464916
+left_meanx: 386.35021422   right_meanx: 1065.21056837    diff: 678.860354154
+Frame # 834
+detected new curve left_curverad: 1000.51546865  right_curverad: 629.835337016
+Frame # 835
+detected curve left_curverad: 860.379998824  right_curverad: 659.562560576
+left_meanx: 382.336933363   right_meanx: 1084.05922816    diff: 701.722294795
+Frame # 836
+detected new curve left_curverad: 896.144038859  right_curverad: 473.701901502
+Frame # 837
+detected curve left_curverad: 939.942500152  right_curverad: 496.114740335
+left_meanx: 368.712276716   right_meanx: 1087.37896048    diff: 718.666683768
+Frame # 838
+detected new curve left_curverad: 841.167473135  right_curverad: 473.718371872
+Frame # 839
+detected curve left_curverad: 819.931604353  right_curverad: 501.284084725
+left_meanx: 368.089382654   right_meanx: 1060.0964451    diff: 692.007062445
+Frame # 840
+detected new curve left_curverad: 739.775292813  right_curverad: 707.88746583
+Frame # 841
+detected curve left_curverad: 723.055119353  right_curverad: 787.946485826
+left_meanx: 368.01748492   right_meanx: 1052.82139105    diff: 684.803906128
+Frame # 842
+detected new curve left_curverad: 755.818797883  right_curverad: 758.036251622
+Frame # 843
+detected curve left_curverad: 762.921381762  right_curverad: 745.298223384
+left_meanx: 354.15641791   right_meanx: 1040.22450708    diff: 686.068089166
+Frame # 844
+detected new curve left_curverad: 776.646785094  right_curverad: 793.926823626
+Frame # 845
+detected curve left_curverad: 771.76509388  right_curverad: 1051.90545641
+left_meanx: 349.376559422   right_meanx: 1050.69902272    diff: 701.322463293
+Frame # 846
+detected new curve left_curverad: 755.223638124  right_curverad: 699.482552805
+Frame # 847
+detected curve left_curverad: 739.310827671  right_curverad: 974.733355539
+left_meanx: 358.582658713   right_meanx: 1082.79150015    diff: 724.208841433
+Frame # 848
+detected new curve left_curverad: 813.544454203  right_curverad: 600.943534712
+Frame # 849
+detected curve left_curverad: 852.830600908  right_curverad: 842.076073188
+left_meanx: 352.10009964   right_meanx: 1089.15827599    diff: 737.058176347
+Frame # 850
+detected new curve left_curverad: 937.288563578  right_curverad: 724.358353078
+Frame # 851
+detected curve left_curverad: 930.650701515  right_curverad: 1191.21175888
+left_meanx: 358.333150062   right_meanx: 1072.4101712    diff: 714.077021136
+Frame # 852
+detected new curve left_curverad: 1097.65262034  right_curverad: 818.224696343
+Frame # 853
+detected curve left_curverad: 1223.07287154  right_curverad: 1358.30740851
+left_meanx: 360.069778153   right_meanx: 1065.69741352    diff: 705.627635371
+Frame # 854
+detected new curve left_curverad: 1284.78913181  right_curverad: 1086.15136671
+Frame # 855
+detected curve left_curverad: 1259.01963439  right_curverad: 1113.03764564
+left_meanx: 354.041776038   right_meanx: 1055.24681414    diff: 701.2050381
+Frame # 856
+detected new curve left_curverad: 1420.68792336  right_curverad: 1166.54821259
+Frame # 857
+detected curve left_curverad: 1486.55418399  right_curverad: 1455.50331773
+left_meanx: 356.244220796   right_meanx: 1068.82994242    diff: 712.585721622
+Frame # 858
+detected new curve left_curverad: 1293.0092437  right_curverad: 551.570793506
+Frame # 859
+detected curve left_curverad: 1109.35324696  right_curverad: 593.900546151
+left_meanx: 365.960848753   right_meanx: 1096.05174214    diff: 730.09089339
+Frame # 860
+detected new curve left_curverad: 1062.07322748  right_curverad: 540.123301977
+Frame # 861
+detected curve left_curverad: 1156.43289436  right_curverad: 618.107531181
+left_meanx: 364.058549701   right_meanx: 1082.44541958    diff: 718.386869883
+Frame # 862
+detected new curve left_curverad: 1171.23499968  right_curverad: 524.807770078
+Frame # 863
+detected curve left_curverad: 1152.02526045  right_curverad: 601.851501028
+left_meanx: 362.82081893   right_meanx: 1070.27792289    diff: 707.457103962
+Frame # 864
+detected new curve left_curverad: 1257.57398809  right_curverad: 661.926197506
+Frame # 865
+detected curve left_curverad: 1270.31791336  right_curverad: 850.010079941
+left_meanx: 351.507525515   right_meanx: 1071.04807692    diff: 719.540551408
+Frame # 866
+detected new curve left_curverad: 1317.28361466  right_curverad: 715.750804716
+Frame # 867
+detected curve left_curverad: 1376.57366813  right_curverad: 739.694973254
+left_meanx: 347.352786212   right_meanx: 1058.84683925    diff: 711.494053042
+Frame # 868
+detected new curve left_curverad: 1317.98145361  right_curverad: 682.752896966
+Frame # 869
+detected curve left_curverad: 1265.53470123  right_curverad: 951.463843958
+left_meanx: 352.675642161   right_meanx: 1066.63250206    diff: 713.956859894
+Frame # 870
+detected new curve left_curverad: 1164.20681832  right_curverad: 496.912058702
+Frame # 871
+detected curve left_curverad: 990.470773704  right_curverad: 652.104212292
+left_meanx: 357.733843388   right_meanx: 1105.17618171    diff: 747.442338319
+Frame # 872
+detected new curve left_curverad: 1028.99722046  right_curverad: 512.829745393
+Frame # 873
+detected curve left_curverad: 1085.66114751  right_curverad: 679.517895257
+left_meanx: 351.950769981   right_meanx: 1116.92156863    diff: 764.970798646
+Frame # 874
+detected new curve left_curverad: 1203.91144645  right_curverad: 583.04630527
+Frame # 875
+detected curve left_curverad: 1052.10636262  right_curverad: 685.670582588
+left_meanx: 349.347383222   right_meanx: 1103.8224018    diff: 754.475018582
+Frame # 876
+detected new curve left_curverad: 1162.6267592  right_curverad: 602.109555513
+Frame # 877
+detected curve left_curverad: 1314.83847213  right_curverad: 957.220496673
+left_meanx: 349.025138491   right_meanx: 1082.6194474    diff: 733.594308905
+Frame # 878
+detected new curve left_curverad: 1115.03165054  right_curverad: 975.867706749
+Frame # 879
+detected curve left_curverad: 993.635303779  right_curverad: 892.740162531
+left_meanx: 349.508335859   right_meanx: 1068.13701456    diff: 718.628678704
+Frame # 880
+detected new curve left_curverad: 917.451635521  right_curverad: 809.406053977
+Frame # 881
+detected curve left_curverad: 856.126384786  right_curverad: 1591.07207491
+left_meanx: 351.819117055   right_meanx: 1070.9584    diff: 719.139282945
+Frame # 882
+detected new curve left_curverad: 858.315549157  right_curverad: 700.736302708
+Frame # 883
+detected curve left_curverad: 851.199546481  right_curverad: 1422.82190757
+left_meanx: 354.96773007   right_meanx: 1111.62658355    diff: 756.658853482
+Frame # 884
+detected new curve left_curverad: 937.14519581  right_curverad: 605.619263993
+Frame # 885
+detected curve left_curverad: 1092.43562581  right_curverad: 844.720414864
+left_meanx: 358.937012383   right_meanx: 1104.12276845    diff: 745.185756063
+Frame # 886
+detected new curve left_curverad: 1142.7297859  right_curverad: 520.017753913
+Frame # 887
+detected curve left_curverad: 1292.26941648  right_curverad: 666.001133263
+left_meanx: 364.373617449   right_meanx: 1073.79292324    diff: 709.419305795
+Frame # 888
+detected new curve left_curverad: 1336.10718859  right_curverad: 828.85200904
+Frame # 889
+detected curve left_curverad: 1595.94804802  right_curverad: 808.216552705
+left_meanx: 368.970910746   right_meanx: 1057.66273089    diff: 688.69182014
+Frame # 890
+detected new curve left_curverad: 1973.17857362  right_curverad: 776.196094558
+Frame # 891
+detected curve left_curverad: 2157.76628665  right_curverad: 796.316554822
+left_meanx: 361.83324461   right_meanx: 1053.3022258    diff: 691.468981188
+Frame # 892
+detected new curve left_curverad: 2598.68703906  right_curverad: 654.047828659
+Frame # 893
+detected curve left_curverad: 2737.27988407  right_curverad: 1139.98864745
+left_meanx: 361.78787611   right_meanx: 1077.07068167    diff: 715.282805558
+Frame # 894
+detected new curve left_curverad: 1467.52089699  right_curverad: 503.44626766
+Frame # 895
+detected curve left_curverad: 1630.42453278  right_curverad: 640.904770594
+left_meanx: 373.545548691   right_meanx: 1103.54245773    diff: 729.99690904
+Frame # 896
+detected new curve left_curverad: 1590.4416294  right_curverad: 568.421828776
+Frame # 897
+detected curve left_curverad: 1635.50869607  right_curverad: 720.303403248
+left_meanx: 374.197751567   right_meanx: 1097.24174894    diff: 723.043997376
+Frame # 898
+detected new curve left_curverad: 1451.73559638  right_curverad: 810.959108374
+Frame # 899
+detected curve left_curverad: 1672.68003763  right_curverad: 1103.03145879
+left_meanx: 374.632269761   right_meanx: 1080.51123889    diff: 705.878969131
+Frame # 900
+detected new curve left_curverad: 2101.83717782  right_curverad: 1048.40753377
+Frame # 901
+detected curve left_curverad: 2094.87128585  right_curverad: 1111.06058991
+left_meanx: 378.713907072   right_meanx: 1060.69889248    diff: 681.984985406
+Frame # 902
+detected new curve left_curverad: 2048.66297376  right_curverad: 1074.23104334
+Frame # 903
+detected curve left_curverad: 1911.14035169  right_curverad: 1123.43634445
+left_meanx: 371.332370954   right_meanx: 1054.05790616    diff: 682.725535203
+Frame # 904
+detected new curve left_curverad: 1809.9016552  right_curverad: 779.662359817
+Frame # 905
+detected curve left_curverad: 1827.06273957  right_curverad: 833.129232037
+left_meanx: 364.408204498   right_meanx: 1084.7031329    diff: 720.294928398
+Frame # 906
+detected new curve left_curverad: 1326.71060073  right_curverad: 507.606573414
+Frame # 907
+detected curve left_curverad: 1470.44446279  right_curverad: 529.520469185
+left_meanx: 363.239644642   right_meanx: 1109.51155238    diff: 746.271907738
+Frame # 908
+detected new curve left_curverad: 1470.3365488  right_curverad: 492.405291861
+Frame # 909
+detected curve left_curverad: 1189.02675716  right_curverad: 523.407856159
+left_meanx: 364.9667421   right_meanx: 1088.65178657    diff: 723.68504447
+Frame # 910
+detected new curve left_curverad: 955.941915897  right_curverad: 516.750850348
+Frame # 911
+detected curve left_curverad: 923.241745219  right_curverad: 677.348950871
+left_meanx: 370.850984274   right_meanx: 1072.67157371    diff: 701.820589436
+Frame # 912
+detected new curve left_curverad: 973.47892195  right_curverad: 668.058189534
+Frame # 913
+detected curve left_curverad: 968.936834069  right_curverad: 716.75131842
+left_meanx: 368.149415399   right_meanx: 1056.27220011    diff: 688.122784715
+Frame # 914
+detected new curve left_curverad: 996.930260729  right_curverad: 629.131585466
+Frame # 915
+detected curve left_curverad: 996.555695367  right_curverad: 901.310600793
+left_meanx: 361.813868309   right_meanx: 1052.19183512    diff: 690.377966808
+Frame # 916
+detected new curve left_curverad: 891.622235004  right_curverad: 672.825373063
+Frame # 917
+detected curve left_curverad: 869.277167406  right_curverad: 821.044506802
+left_meanx: 359.709346828   right_meanx: 1090.69906271    diff: 730.989715882
+Frame # 918
+detected new curve left_curverad: 719.461052934  right_curverad: 418.578141578
+Frame # 919
+detected curve left_curverad: 687.049025266  right_curverad: 550.180023961
+left_meanx: 362.959564325   right_meanx: 1108.36277714    diff: 745.403212815
+Frame # 920
+detected new curve left_curverad: 661.259736139  right_curverad: 495.709057131
+Frame # 921
+detected curve left_curverad: 693.261575732  right_curverad: 598.941671134
+left_meanx: 367.541923775   right_meanx: 1080.40981459    diff: 712.867890816
+Frame # 922
+detected new curve left_curverad: 715.583641465  right_curverad: 629.453877084
+Frame # 923
+detected curve left_curverad: 773.980617211  right_curverad: 1062.61566438
+left_meanx: 367.558481192   right_meanx: 1072.00786618    diff: 704.449384983
+Frame # 924
+detected new curve left_curverad: 899.923696585  right_curverad: 923.626111987
+Frame # 925
+detected curve left_curverad: 904.949953144  right_curverad: 931.014310755
+left_meanx: 367.418767741   right_meanx: 1044.88104984    diff: 677.462282103
+Frame # 926
+detected new curve left_curverad: 901.301220526  right_curverad: 1330.76109941
+Frame # 927
+detected curve left_curverad: 987.950845727  right_curverad: 1413.75678094
+left_meanx: 364.641018595   right_meanx: 1062.82692973    diff: 698.185911139
+Frame # 928
+detected new curve left_curverad: 1136.39691092  right_curverad: 877.264859915
+Frame # 929
+detected curve left_curverad: 1204.67148868  right_curverad: 1006.23925971
+left_meanx: 363.874763151   right_meanx: 1088.75771381    diff: 724.882950662
+Frame # 930
+detected new curve left_curverad: 1022.16736902  right_curverad: 556.684743587
+Frame # 931
+detected curve left_curverad: 1164.00361487  right_curverad: 648.574915207
+left_meanx: 373.506736797   right_meanx: 1087.38078886    diff: 713.874052067
+Frame # 932
+detected new curve left_curverad: 1317.5315258  right_curverad: 503.448931678
+Frame # 933
+detected curve left_curverad: 1514.11129592  right_curverad: 548.419484789
+left_meanx: 376.171152278   right_meanx: 1069.96377953    diff: 693.79262725
+Frame # 934
+detected new curve left_curverad: 1292.0804728  right_curverad: 636.732744745
+Frame # 935
+detected curve left_curverad: 1581.0542858  right_curverad: 692.154654207
+left_meanx: 379.595764478   right_meanx: 1066.39644047    diff: 686.800675988
+Frame # 936
+detected new curve left_curverad: 1455.63552773  right_curverad: 677.419080907
+Frame # 937
+detected curve left_curverad: 1448.24953094  right_curverad: 601.014030127
+detected adjusted curve left_curverad: 1451.93311638  right_curverad: 636.933695857
+Frame # 938
+detected curve left_curverad: 1208.63957562  right_curverad: 754.522763459
+left_meanx: 377.671962574   right_meanx: 1058.65876386    diff: 680.986801286
+Frame # 939
+detected new curve left_curverad: 1183.72007709  right_curverad: 621.860708685
+Frame # 940
+detected curve left_curverad: 991.602529168  right_curverad: 678.818094246
+left_meanx: 378.254025783   right_meanx: 1089.13213432    diff: 710.878108534
+Frame # 941
+detected new curve left_curverad: 785.786367123  right_curverad: 420.780874998
+Frame # 942
+detected curve left_curverad: 782.395943796  right_curverad: 436.933684453
+left_meanx: 381.616701723   right_meanx: 1106.69923458    diff: 725.082532856
+Frame # 943
+detected new curve left_curverad: 699.47083013  right_curverad: 397.098022214
+Frame # 944
+detected curve left_curverad: 713.455832866  right_curverad: 467.746062673
+left_meanx: 377.890957057   right_meanx: 1096.10790743    diff: 718.216950368
+Frame # 945
+detected new curve left_curverad: 791.797277438  right_curverad: 420.127042073
+Frame # 946
+detected curve left_curverad: 802.864458893  right_curverad: 742.205234507
+left_meanx: 382.940022297   right_meanx: 1078.41183788    diff: 695.471815581
+Frame # 947
+detected new curve left_curverad: 858.522405308  right_curverad: 852.063114585
+Frame # 948
+detected curve left_curverad: 904.429118303  right_curverad: 967.76742976
+left_meanx: 380.113955164   right_meanx: 1058.77681701    diff: 678.66286185
+Frame # 949
+detected new curve left_curverad: 962.968907964  right_curverad: 757.667441164
+Frame # 950
+detected curve left_curverad: 992.024711349  right_curverad: 1094.97615101
+left_meanx: 378.716589082   right_meanx: 1060.80356461    diff: 682.086975527
+Frame # 951
+detected new curve left_curverad: 1009.24073373  right_curverad: 789.504666461
+Frame # 952
+detected curve left_curverad: 1078.81929207  right_curverad: 1003.8130839
+left_meanx: 369.502565217   right_meanx: 1101.51727391    diff: 732.014708689
+Frame # 953
+detected new curve left_curverad: 806.541651071  right_curverad: 525.284740676
+Frame # 954
+detected curve left_curverad: 932.858509619  right_curverad: 666.636580408
+left_meanx: 376.260025266   right_meanx: 1127.80782283    diff: 751.547797559
+Frame # 955
+detected new curve left_curverad: 970.896795034  right_curverad: 514.214552268
+Frame # 956
+detected curve left_curverad: 957.13718216  right_curverad: 559.734295516
+left_meanx: 383.228012657   right_meanx: 1102.53118792    diff: 719.303175265
+Frame # 957
+detected new curve left_curverad: 899.516797581  right_curverad: 462.31028579
+Frame # 958
+detected curve left_curverad: 915.598007595  right_curverad: 797.788700108
+left_meanx: 388.141397583   right_meanx: 1097.27456045    diff: 709.133162862
+Frame # 959
+detected new curve left_curverad: 1047.31570536  right_curverad: 959.447545465
+Frame # 960
+detected curve left_curverad: 1312.47024261  right_curverad: 937.443794147
+left_meanx: 387.187238542   right_meanx: 1076.08991354    diff: 688.902675003
+Frame # 961
+detected new curve left_curverad: 1264.5899216  right_curverad: 1705.45810636
+Frame # 962
+detected curve left_curverad: 1409.6117115  right_curverad: 1897.48735661
+left_meanx: 385.075271695   right_meanx: 1090.28093492    diff: 705.205663227
+Frame # 963
+detected new curve left_curverad: 1222.47102284  right_curverad: 918.433289069
+Frame # 964
+detected curve left_curverad: 1523.4477844  right_curverad: 1020.23257554
+left_meanx: 387.80896371   right_meanx: 1121.59531312    diff: 733.786349405
+Frame # 965
+detected new curve left_curverad: 935.952105433  right_curverad: 475.918197764
+Frame # 966
+detected curve left_curverad: 1048.03862008  right_curverad: 480.297008445
+left_meanx: 407.977536487   right_meanx: 1122.61506171    diff: 714.637525221
+Frame # 967
+detected new curve left_curverad: 1015.7515764  right_curverad: 479.190575392
+Frame # 968
+detected curve left_curverad: 1248.95616031  right_curverad: 521.748854175
+left_meanx: 409.175794644   right_meanx: 1099.75905797    diff: 690.583263327
+Frame # 969
+detected new curve left_curverad: 1216.57004441  right_curverad: 716.246691521
+Frame # 970
+detected curve left_curverad: 1663.88194013  right_curverad: 1008.32112293
+left_meanx: 403.697980033   right_meanx: 1099.80363052    diff: 696.105650487
+Frame # 971
+detected new curve left_curverad: 2490.54346366  right_curverad: 844.29375134
+Frame # 972
+detected curve left_curverad: 4510.12153384  right_curverad: 908.025589309
+left_meanx: 397.513157895   right_meanx: 1085.18327118    diff: 687.670113283
+Frame # 973
+detected new curve left_curverad: 4103.29582289  right_curverad: 955.374744314
+Frame # 974
+detected curve left_curverad: 6499.09187973  right_curverad: 1516.54354993
+left_meanx: 399.724225688   right_meanx: 1082.21363308    diff: 682.489407397
+Frame # 975
+detected new curve left_curverad: 9859.00395385  right_curverad: 1016.04246366
+Frame # 976
+detected curve left_curverad: 4097.187981  right_curverad: 928.535820503
+left_meanx: 411.323658684   right_meanx: 1106.80185014    diff: 695.478191454
+Frame # 977
+detected new curve left_curverad: 2993.56499272  right_curverad: 775.018093029
+Frame # 978
+detected curve left_curverad: 852.582463623  right_curverad: 1044.7759978
+left_meanx: 416.044677273   right_meanx: 1094.64226422    diff: 678.597586944
+Frame # 979
+detected new curve left_curverad: 998.813738047  right_curverad: 1881.84486099
+Frame # 980
+detected curve left_curverad: 1017.97777488  right_curverad: 18134.3386479
+detected bad curve left_curverad: 1017.97777488  right_curverad: 18134.3386479
+Frame # 981
+detected new curve left_curverad: 146817.853928  right_curverad: 1865.81881191
+Frame # 982
+detected curve left_curverad: 1357.23953345  right_curverad: 802.88018832
+left_meanx: 401.80549334   right_meanx: 1076.99498163    diff: 675.18948829
+Frame # 983
+detected new curve left_curverad: 9121.61035726  right_curverad: 816.424758129
+Frame # 984
+detected curve left_curverad: 7964.47147228  right_curverad: 752.345829439
+left_meanx: 388.093168384   right_meanx: 1086.49371778    diff: 698.4005494
+Frame # 985
+detected new curve left_curverad: 2540.3207268  right_curverad: 631.753345418
+Frame # 986
+detected curve left_curverad: 2986.44476199  right_curverad: 493.645598538
+left_meanx: 379.263031025   right_meanx: 1103.48400721    diff: 724.220976183
+Frame # 987
+detected new curve left_curverad: 3013.73099797  right_curverad: 408.251057453
+Frame # 988
+detected curve left_curverad: 1189.76499798  right_curverad: 258.354990348
+left_meanx: 351.956229723   right_meanx: 1100.11847623    diff: 748.162246512
+Frame # 989
+detected new curve left_curverad: 1156.91426044  right_curverad: 229.32183602
+Frame # 990
+detected curve left_curverad: 1077.25406764  right_curverad: 238.856483461
+left_meanx: 332.277636675   right_meanx: 1101.25418184    diff: 768.976545167
+Frame # 991
+detected new curve left_curverad: 1113.51728328  right_curverad: 259.781546538
+Frame # 992
+detected curve left_curverad: 1068.87824849  right_curverad: 293.753784478
+left_meanx: 323.483633501   right_meanx: 1098.02855737    diff: 774.544923873
+Frame # 993
+detected new curve left_curverad: 745.508730744  right_curverad: 316.152054224
+Frame # 994
+detected curve left_curverad: 788.485716972  right_curverad: 315.306971794
+left_meanx: 331.390864008   right_meanx: 1069.27853576    diff: 737.887671748
+Frame # 995
+detected new curve left_curverad: 1660.31952888  right_curverad: 319.139193601
+Frame # 996
+detected curve left_curverad: 1652.95264502  right_curverad: 854.998351561
+left_meanx: 340.811552172   right_meanx: 1048.02487214    diff: 707.213319968
+Frame # 997
+detected new curve left_curverad: 1612.80975354  right_curverad: 1163.93192304
+Frame # 998
+detected curve left_curverad: 1237.87580796  right_curverad: 2433.68340782
+left_meanx: 336.250471837   right_meanx: 1044.59703132    diff: 708.346559485
+Frame # 999
+detected new curve left_curverad: 1345.85587534  right_curverad: 38674.2448765
+Frame # 1000
+detected curve left_curverad: 1209.59027031  right_curverad: 760.636117433
+left_meanx: 333.061644199   right_meanx: 1039.12254095    diff: 706.060896752
+Frame # 1001
+detected new curve left_curverad: 8903.65293501  right_curverad: 782.550422544
+Frame # 1002
+detected curve left_curverad: 63321.3920488  right_curverad: 357.461600203
+left_meanx: 326.845731849   right_meanx: 1051.33046604    diff: 724.484734193
+Frame # 1003
+detected new curve left_curverad: 2188.99823288  right_curverad: 558.845621108
+Frame # 1004
+detected curve left_curverad: 1606.05185456  right_curverad: 306.474584069
+left_meanx: 298.187305495   right_meanx: 1064.13964226    diff: 765.952336764
+Frame # 1005
+detected new curve left_curverad: 987.515662004  right_curverad: 2116.72998666
+Frame # 1006
+detected curve left_curverad: 1648.76356203  right_curverad: 33049.7376263
+left_meanx: 304.463925853   right_meanx: 1069.32614411    diff: 764.86221826
+Frame # 1007
+detected new curve left_curverad: 1209.66400649  right_curverad: 506.709091586
+Frame # 1008
+detected curve left_curverad: 1032.27601074  right_curverad: 413.20124619
+left_meanx: 327.546891336   right_meanx: 1050.43033561    diff: 722.883444273
+Frame # 1009
+detected new curve left_curverad: 1176.67330161  right_curverad: 504.753186932
+Frame # 1010
+detected curve left_curverad: 507.307744638  right_curverad: 514.825054998
+left_meanx: 318.460827553   right_meanx: 1053.60186807    diff: 735.141040515
+Frame # 1011
+detected new curve left_curverad: 1219.98980336  right_curverad: 537.00488335
+Frame # 1012
+detected curve left_curverad: 467.505556031  right_curverad: 713.401808489
+left_meanx: 297.581363097   right_meanx: 1052.63885076    diff: 755.057487658
+Frame # 1013
+detected new curve left_curverad: 689.087587464  right_curverad: 609.503262352
+Frame # 1014
+detected curve left_curverad: 723.548471356  right_curverad: 773.423396837
+left_meanx: 277.187740595   right_meanx: 1046.19469162    diff: 769.006951028
+Frame # 1015
+detected new curve left_curverad: 486.013557137  right_curverad: 447.250132673
+Frame # 1016
+detected curve left_curverad: 466.337000481  right_curverad: 459.241090985
+left_meanx: 272.646692625   right_meanx: 1080.82555339    diff: 808.178860764
+Frame # 1017
+detected new curve left_curverad: 539.924831125  right_curverad: 521.937807654
+Frame # 1018
+detected curve left_curverad: 392.240731364  right_curverad: 575.625721369
+left_meanx: 281.213391137   right_meanx: 1078.20439715    diff: 796.991006012
+Frame # 1019
+detected new curve left_curverad: 431.411196248  right_curverad: 578.525373935
+Frame # 1020
+detected curve left_curverad: 394.960438849  right_curverad: 557.174670066
+left_meanx: 281.168826586   right_meanx: 1069.65318967    diff: 788.484363088
+Frame # 1021
+detected new curve left_curverad: 342.03122106  right_curverad: 702.401501364
+Frame # 1022
+detected curve left_curverad: 482.544270912  right_curverad: 921.821469133
+left_meanx: 292.179871049   right_meanx: 1057.2665828    diff: 765.086711751
+Frame # 1023
+detected new curve left_curverad: 513.779835221  right_curverad: 972.565962885
+Frame # 1024
+detected curve left_curverad: 1455.47479965  right_curverad: 848.356851396
+left_meanx: 282.245988032   right_meanx: 1051.52419955    diff: 769.278211521
+Frame # 1025
+detected new curve left_curverad: 2716.15602678  right_curverad: 565.936931249
+Frame # 1026
+detected curve left_curverad: 2543.74508118  right_curverad: 938.890566619
+left_meanx: 285.292188587   right_meanx: 1079.18578179    diff: 793.8935932
+Frame # 1027
+detected new curve left_curverad: 1013.45572969  right_curverad: 400.379388017
+Frame # 1028
+detected curve left_curverad: 933.864877784  right_curverad: 290.740045013
+left_meanx: 301.479015826   right_meanx: 1055.28189371    diff: 753.80287788
+Frame # 1029
+detected new curve left_curverad: 658.330833546  right_curverad: 305.521906538
+Frame # 1030
+detected curve left_curverad: 611.0697834  right_curverad: 325.490376902
+left_meanx: 304.921607817   right_meanx: 1037.51237809    diff: 732.590770278
+Frame # 1031
+detected new curve left_curverad: 693.632367804  right_curverad: 666.801634907
+Frame # 1032
+detected curve left_curverad: 786.575056027  right_curverad: 700.391797956
+left_meanx: 307.303484743   right_meanx: 1020.73790214    diff: 713.434417392
+Frame # 1033
+detected new curve left_curverad: 869.615558107  right_curverad: 1378.283363
+Frame # 1034
+detected curve left_curverad: 928.774292494  right_curverad: 642.878400153
+left_meanx: 312.116627266   right_meanx: 1023.48801956    diff: 711.371392294
+Frame # 1035
+detected new curve left_curverad: 1072.21312211  right_curverad: 534.315724743
+Frame # 1036
+detected curve left_curverad: 886.554338349  right_curverad: 406.447778188
+left_meanx: 337.450078864   right_meanx: 1056.20250671    diff: 718.75242785
+Frame # 1037
+detected new curve left_curverad: 989.861952007  right_curverad: 375.737771253
+Frame # 1038
+detected curve left_curverad: 886.878678856  right_curverad: 285.64078805
+left_meanx: 338.438057688   right_meanx: 1070.60148148    diff: 732.163423793
+Frame # 1039
+detected new curve left_curverad: 718.868873392  right_curverad: 257.252247369
+Frame # 1040
+detected curve left_curverad: 982.632389893  right_curverad: 233.818097858
+left_meanx: 342.793347626   right_meanx: 1062.23910001    diff: 719.445752385
+Frame # 1041
+detected new curve left_curverad: 817.10472812  right_curverad: 374.21351874
+Frame # 1042
+detected curve left_curverad: 649.345823529  right_curverad: 654.933686687
+left_meanx: 344.753074792   right_meanx: 1061.14035698    diff: 716.387282185
+Frame # 1043
+detected new curve left_curverad: 593.798417208  right_curverad: 875.215897842
+Frame # 1044
+detected curve left_curverad: 628.454846372  right_curverad: 951.175353247
+left_meanx: 325.726605304   right_meanx: 1044.46387405    diff: 718.737268748
+Frame # 1045
+detected new curve left_curverad: 647.541626509  right_curverad: 895.505909821
+Frame # 1046
+detected curve left_curverad: 441.537715998  right_curverad: 968.355700727
+left_meanx: 323.815106732   right_meanx: 1062.51436104    diff: 738.699254306
+Frame # 1047
+detected new curve left_curverad: 483.29555512  right_curverad: 607.004200694
+Frame # 1048
+detected curve left_curverad: 469.621247121  right_curverad: 1051.92228742
+left_meanx: 312.593450371   right_meanx: 1084.25629077    diff: 771.662840402
+Frame # 1049
+detected new curve left_curverad: 711.057069959  right_curverad: 382.455392598
+Frame # 1050
+detected curve left_curverad: 920.12807966  right_curverad: 467.129334385
+left_meanx: 310.960397761   right_meanx: 1116.74105285    diff: 805.78065509
+Frame # 1051
+detected new curve left_curverad: 919.807790861  right_curverad: 515.89576952
+Frame # 1052
+detected curve left_curverad: 954.48281079  right_curverad: 607.350124714
+left_meanx: 327.24737431   right_meanx: 1098.80445749    diff: 771.557083179
+Frame # 1053
+detected new curve left_curverad: 1304.84025444  right_curverad: 560.816020691
+Frame # 1054
+detected curve left_curverad: 1519.04131837  right_curverad: 1058.17276061
+left_meanx: 346.933006731   right_meanx: 1071.22379119    diff: 724.290784454
+Frame # 1055
+detected new curve left_curverad: 2073.00799734  right_curverad: 1097.81780251
+Frame # 1056
+detected curve left_curverad: 1952.97401448  right_curverad: 1586.48394013
+left_meanx: 356.567218306   right_meanx: 1053.23896464    diff: 696.671746334
+Frame # 1057
+detected new curve left_curverad: 2340.62317906  right_curverad: 1268.21493403
+Frame # 1058
+detected curve left_curverad: 1592.49516169  right_curverad: 1136.84245768
+left_meanx: 372.063274014   right_meanx: 1071.23728012    diff: 699.174006107
+Frame # 1059
+detected new curve left_curverad: 1577.5334338  right_curverad: 666.892196259
+Frame # 1060
+detected curve left_curverad: 1103.84682208  right_curverad: 584.697814646
+detected adjusted curve left_curverad: 1298.86591547  right_curverad: 623.093795897
+Frame # 1061
+detected curve left_curverad: 1054.49133997  right_curverad: 467.288032573
+left_meanx: 418.871446594   right_meanx: 1040.02777116    diff: 621.156324562
+Frame # 1062
+detected new curve left_curverad: 916.795152774  right_curverad: 388.667775152
+Frame # 1063
+detected curve left_curverad: 1134.53461509  right_curverad: 545.258104265
+detected adjusted curve left_curverad: 1014.09357714  right_curverad: 453.793700297
+Frame # 1064
+detected curve left_curverad: 1357.92338505  right_curverad: 598.206932845
+detected adjusted curve left_curverad: 1107.56053326  right_curverad: 493.486227068
+Frame # 1065
+detected curve left_curverad: 1299.61190346  right_curverad: 527.0500857
+left_meanx: 380.308513019   right_meanx: 1074.19829446    diff: 693.889781443
+Frame # 1066
+detected new curve left_curverad: 1587.79036831  right_curverad: 495.340288014
+Frame # 1067
+detected curve left_curverad: 1731.5531354  right_curverad: 609.434186548
+left_meanx: 373.193601765   right_meanx: 1070.26391624    diff: 697.070314478
+Frame # 1068
+detected new curve left_curverad: 1717.84928814  right_curverad: 586.646194951
+Frame # 1069
+detected curve left_curverad: 2030.74448588  right_curverad: 543.916038072
+left_meanx: 374.926471906   right_meanx: 1051.91281185    diff: 676.986339944
+Frame # 1070
+detected new curve left_curverad: 2155.12905895  right_curverad: 664.701469598
+Frame # 1071
+detected curve left_curverad: 2474.99735375  right_curverad: 770.538606931
+left_meanx: 371.954985054   right_meanx: 1086.38514101    diff: 714.430155958
+Frame # 1072
+detected new curve left_curverad: 2276.30136101  right_curverad: 416.141466309
+Frame # 1073
+detected curve left_curverad: 2438.85991242  right_curverad: 496.529944296
+left_meanx: 376.946038904   right_meanx: 1117.45744871    diff: 740.511409803
+Frame # 1074
+detected new curve left_curverad: 2026.50184612  right_curverad: 487.926773767
+Frame # 1075
+detected curve left_curverad: 1684.15143771  right_curverad: 584.945774771
+left_meanx: 382.835764853   right_meanx: 1099.71347492    diff: 716.877710064
+Frame # 1076
+detected new curve left_curverad: 1352.89604862  right_curverad: 483.865922541
+Frame # 1077
+detected curve left_curverad: 1329.27122948  right_curverad: 729.085479018
+left_meanx: 395.821165752   right_meanx: 1080.18456853    diff: 684.363402776
+Frame # 1078
+detected new curve left_curverad: 1469.76316368  right_curverad: 741.002420907
+Frame # 1079
+detected curve left_curverad: 1452.83696948  right_curverad: 854.292233351
+detected adjusted curve left_curverad: 1461.25091993  right_curverad: 793.626895895
+Frame # 1080
+detected curve left_curverad: 1395.13155794  right_curverad: 909.247428023
+detected adjusted curve left_curverad: 1438.5253526  right_curverad: 828.757529299
+Frame # 1081
+detected curve left_curverad: 1412.66404881  right_curverad: 1011.93129224
+left_meanx: 385.899892838   right_meanx: 1075.89960937    diff: 689.999716537
+Frame # 1082
+detected new curve left_curverad: 1331.15837078  right_curverad: 838.931943347
+Frame # 1083
+detected curve left_curverad: 1286.34970256  right_curverad: 770.635992409
+left_meanx: 390.444897093   right_meanx: 1117.30547218    diff: 726.860575084
+Frame # 1084
+detected new curve left_curverad: 1203.44125908  right_curverad: 372.50032832
+Frame # 1085
+detected curve left_curverad: 1120.73892242  right_curverad: 424.0613868
+left_meanx: 395.124702116   right_meanx: 1138.93110153    diff: 743.806399414
+Frame # 1086
+detected new curve left_curverad: 1384.88275511  right_curverad: 487.099557656
+Frame # 1087
+detected curve left_curverad: 1412.02469071  right_curverad: 504.729155248
+left_meanx: 390.21058837   right_meanx: 1122.46697182    diff: 732.256383449
+Frame # 1088
+detected new curve left_curverad: 1104.29746389  right_curverad: 432.927224038
+Frame # 1089
+detected curve left_curverad: 1192.74012764  right_curverad: 660.156734684
+left_meanx: 395.8280387   right_meanx: 1099.07927451    diff: 703.251235806
+Frame # 1090
+detected new curve left_curverad: 1128.23598143  right_curverad: 617.776101637
+Frame # 1091
+detected curve left_curverad: 1210.6805291  right_curverad: 652.488799227
+left_meanx: 393.86091108   right_meanx: 1076.23769371    diff: 682.37678263
+Frame # 1092
+detected new curve left_curverad: 1334.26487743  right_curverad: 641.088451478
+Frame # 1093
+detected curve left_curverad: 1245.66454269  right_curverad: 618.022842934
+left_meanx: 389.616556263   right_meanx: 1068.69728088    diff: 679.080724616
+Frame # 1094
+detected new curve left_curverad: 1406.46970514  right_curverad: 602.042454066
+Frame # 1095
+detected curve left_curverad: 1677.30817036  right_curverad: 512.740780289
+left_meanx: 395.287327844   right_meanx: 1115.01695591    diff: 719.729628071
+Frame # 1096
+detected new curve left_curverad: 1703.02543205  right_curverad: 458.483191351
+Frame # 1097
+detected curve left_curverad: 2146.58625449  right_curverad: 500.239861139
+left_meanx: 397.629279195   right_meanx: 1108.69483778    diff: 711.065558589
+Frame # 1098
+detected new curve left_curverad: 2346.31687546  right_curverad: 495.166038557
+Frame # 1099
+detected curve left_curverad: 2939.56357068  right_curverad: 506.755231754
+left_meanx: 399.007098046   right_meanx: 1091.66380894    diff: 692.656710894
+Frame # 1100
+detected new curve left_curverad: 2542.76964293  right_curverad: 1122.42275246
+Frame # 1101
+detected curve left_curverad: 3805.35160239  right_curverad: 1640.65453899
+left_meanx: 402.657009417   right_meanx: 1080.49469851    diff: 677.837689095
+Frame # 1102
+detected new curve left_curverad: 5210.79224921  right_curverad: 1279.59696097
+Frame # 1103
+detected curve left_curverad: 5438.6663064  right_curverad: 1259.52964889
+left_meanx: 393.68718236   right_meanx: 1078.71744241    diff: 685.030260047
+Frame # 1104
+detected new curve left_curverad: 2954.59593752  right_curverad: 1347.33136454
+Frame # 1105
+detected curve left_curverad: 2417.74659649  right_curverad: 2365.37752183
+left_meanx: 392.060644954   right_meanx: 1090.00464354    diff: 697.943998586
+Frame # 1106
+detected new curve left_curverad: 1501.62428983  right_curverad: 594.846165387
+Frame # 1107
+detected curve left_curverad: 1180.66027564  right_curverad: 552.894721423
+left_meanx: 393.483220757   right_meanx: 1127.56696301    diff: 734.083742249
+Frame # 1108
+detected new curve left_curverad: 973.953646588  right_curverad: 469.164557535
+Frame # 1109
+detected curve left_curverad: 1049.38433933  right_curverad: 506.346414145
+left_meanx: 395.150179527   right_meanx: 1127.47423897    diff: 732.324059441
+Frame # 1110
+detected new curve left_curverad: 1097.20112053  right_curverad: 464.433451818
+Frame # 1111
+detected curve left_curverad: 1126.41102048  right_curverad: 338.342428969
+left_meanx: 401.696716811   right_meanx: 1085.9287077    diff: 684.23199089
+Frame # 1112
+detected new curve left_curverad: 1327.1618314  right_curverad: 530.186896685
+Frame # 1113
+detected curve left_curverad: 1428.33268684  right_curverad: 503.57517064
+detected adjusted curve left_curverad: 1375.8888747  right_curverad: 516.538323269
+Frame # 1114
+detected curve left_curverad: 1659.66207954  right_curverad: 514.575404469
+detected adjusted curve left_curverad: 1459.04553549  right_curverad: 515.881947947
+Frame # 1115
+detected curve left_curverad: 2035.67734388  right_curverad: 501.415892207
+detected adjusted curve left_curverad: 1570.24366651  right_curverad: 512.187317889
+Frame # 1116
+detected curve left_curverad: 2035.35023277  right_curverad: 595.942373705
+left_meanx: 395.129697766   right_meanx: 1075.39341621    diff: 680.26371844
+Frame # 1117
+detected new curve left_curverad: 2306.63512262  right_curverad: 503.482591464
+Frame # 1118
+detected curve left_curverad: 2269.93632949  right_curverad: 452.082078242
+left_meanx: 398.58267164   right_meanx: 1099.39346591    diff: 700.810794269
+Frame # 1119
+detected new curve left_curverad: 2335.68401981  right_curverad: 395.987028151
+Frame # 1120
+detected curve left_curverad: 2692.49554496  right_curverad: 430.593810741
+left_meanx: 388.562447611   right_meanx: 1105.29792769    diff: 716.735480075
+Frame # 1121
+detected new curve left_curverad: 3112.63846351  right_curverad: 427.391673903
+Frame # 1122
+detected curve left_curverad: 2953.62049902  right_curverad: 451.787149466
+left_meanx: 378.714791977   right_meanx: 1103.66514745    diff: 724.950355476
+Frame # 1123
+detected new curve left_curverad: 2828.12760101  right_curverad: 468.889732615
+Frame # 1124
+detected curve left_curverad: 2100.44089128  right_curverad: 763.210820642
+left_meanx: 377.270028072   right_meanx: 1086.46748128    diff: 709.197453205
+Frame # 1125
+detected new curve left_curverad: 1978.75396813  right_curverad: 925.881792719
+Frame # 1126
+detected curve left_curverad: 1680.63749601  right_curverad: 846.400042867
+left_meanx: 371.721054096   right_meanx: 1080.38529185    diff: 708.664237759
+Frame # 1127
+detected new curve left_curverad: 1307.62386296  right_curverad: 841.332191354
+Frame # 1128
+detected curve left_curverad: 1182.41171164  right_curverad: 731.750785781
+left_meanx: 371.907117296   right_meanx: 1075.03447783    diff: 703.127360529
+Frame # 1129
+detected new curve left_curverad: 933.774927199  right_curverad: 555.401139408
+Frame # 1130
+detected curve left_curverad: 837.038838641  right_curverad: 635.769971788
+left_meanx: 385.643574126   right_meanx: 1118.88200123    diff: 733.238427105
+Frame # 1131
+detected new curve left_curverad: 842.259250856  right_curverad: 540.928047602
+Frame # 1132
+detected curve left_curverad: 932.758074013  right_curverad: 508.09678639
+left_meanx: 392.513453808   right_meanx: 1091.00938518    diff: 698.495931367
+Frame # 1133
+detected new curve left_curverad: 1029.74504094  right_curverad: 516.634765397
+Frame # 1134
+detected curve left_curverad: 1152.33521803  right_curverad: 645.597964497
+left_meanx: 384.417264927   right_meanx: 1082.45778003    diff: 698.040515103
+Frame # 1135
+detected new curve left_curverad: 1344.61501078  right_curverad: 797.949111858
+Frame # 1136
+detected curve left_curverad: 1648.00368109  right_curverad: 877.450999643
+left_meanx: 384.829216169   right_meanx: 1067.22171123    diff: 682.392495061
+Frame # 1137
+detected new curve left_curverad: 1772.77920116  right_curverad: 905.924114207
+Frame # 1138
+detected curve left_curverad: 2180.32428971  right_curverad: 1250.71791836
+left_meanx: 385.903737259   right_meanx: 1061.73202289    diff: 675.828285632
+Frame # 1139
+detected new curve left_curverad: 2106.32128156  right_curverad: 853.998808431
+Frame # 1140
+detected curve left_curverad: 2269.87275623  right_curverad: 836.531573209
+left_meanx: 387.563303122   right_meanx: 1090.0623877    diff: 702.49908458
+Frame # 1141
+detected new curve left_curverad: 1762.31166503  right_curverad: 444.30413633
+Frame # 1142
+detected curve left_curverad: 1997.51674055  right_curverad: 474.004839324
+left_meanx: 384.274529029   right_meanx: 1101.32402809    diff: 717.049499058
+Frame # 1143
+detected new curve left_curverad: 1954.61626329  right_curverad: 499.267364283
+Frame # 1144
+detected curve left_curverad: 2041.57826359  right_curverad: 501.995418695
+left_meanx: 383.62612281   right_meanx: 1079.21944177    diff: 695.593318961
+Frame # 1145
+detected new curve left_curverad: 1639.86917348  right_curverad: 611.592321994
+Frame # 1146
+detected curve left_curverad: 1938.33170247  right_curverad: 633.410796608
+left_meanx: 386.166313825   right_meanx: 1069.7673147    diff: 683.601000877
+Frame # 1147
+detected new curve left_curverad: 2151.31574169  right_curverad: 626.787263617
+Frame # 1148
+detected curve left_curverad: 1951.90774971  right_curverad: 642.705124077
+detected adjusted curve left_curverad: 2046.76642083  right_curverad: 634.646204467
+Frame # 1149
+detected curve left_curverad: 1889.85570286  right_curverad: 649.651300491
+left_meanx: 377.654592756   right_meanx: 1052.66374646    diff: 675.009153701
+Frame # 1150
+detected new curve left_curverad: 1815.81623259  right_curverad: 807.677650057
+Frame # 1151
+detected curve left_curverad: 1517.30384615  right_curverad: 864.074418135
+left_meanx: 377.985949351   right_meanx: 1081.70037453    diff: 703.71442518
+Frame # 1152
+detected new curve left_curverad: 1379.094107  right_curverad: 464.453134958
+Frame # 1153
+detected curve left_curverad: 1409.2787448  right_curverad: 482.660439869
+left_meanx: 380.145981109   right_meanx: 1099.03242094    diff: 718.886439832
+Frame # 1154
+detected new curve left_curverad: 1653.86444692  right_curverad: 506.415532077
+Frame # 1155
+detected curve left_curverad: 1548.72176094  right_curverad: 508.745511919
+left_meanx: 372.792654347   right_meanx: 1094.37909149    diff: 721.586437139
+Frame # 1156
+detected new curve left_curverad: 1432.45569752  right_curverad: 430.810907463
+Frame # 1157
+detected curve left_curverad: 1547.10376485  right_curverad: 485.146178747
+left_meanx: 364.437328123   right_meanx: 1092.73959396    diff: 728.302265833
+Frame # 1158
+detected new curve left_curverad: 1433.75830545  right_curverad: 748.641998388
+Frame # 1159
+detected curve left_curverad: 1257.95513944  right_curverad: 760.274376393
+left_meanx: 366.926662733   right_meanx: 1077.43650628    diff: 710.509843543
+Frame # 1160
+detected new curve left_curverad: 1087.16771294  right_curverad: 697.679312029
+Frame # 1161
+detected curve left_curverad: 904.625852479  right_curverad: 831.584065318
+left_meanx: 376.204419088   right_meanx: 1060.20448325    diff: 684.000064165
+Frame # 1162
+detected new curve left_curverad: 860.301584116  right_curverad: 647.265985481
+Frame # 1163
+detected curve left_curverad: 730.12824344  right_curverad: 551.005203412
+left_meanx: 383.337049942   right_meanx: 1103.23765402    diff: 719.900604075
+Frame # 1164
+detected new curve left_curverad: 724.936313385  right_curverad: 441.876002374
+Frame # 1165
+detected curve left_curverad: 796.937198132  right_curverad: 507.620991202
+left_meanx: 378.245488023   right_meanx: 1117.29390893    diff: 739.048420907
+Frame # 1166
+detected new curve left_curverad: 836.196628702  right_curverad: 457.481170364
+Frame # 1167
+detected curve left_curverad: 921.075201571  right_curverad: 497.262466311
+left_meanx: 377.423710559   right_meanx: 1095.77429588    diff: 718.350585317
+Frame # 1168
+detected new curve left_curverad: 985.801410276  right_curverad: 378.622066192
+Frame # 1169
+detected curve left_curverad: 1130.98645177  right_curverad: 573.51739388
+left_meanx: 385.542679054   right_meanx: 1079.21965318    diff: 693.676974126
+Frame # 1170
+detected new curve left_curverad: 1236.5715198  right_curverad: 569.334183951
+Frame # 1171
+detected curve left_curverad: 1377.32921119  right_curverad: 543.615479602
+detected adjusted curve left_curverad: 1303.15827238  right_curverad: 556.177740004
+Frame # 1172
+detected curve left_curverad: 1657.78886828  right_curverad: 837.688967156
+detected adjusted curve left_curverad: 1403.21730911  right_curverad: 626.34795742
+Frame # 1173
+detected curve left_curverad: 1804.91063322  right_curverad: 879.877872545
+left_meanx: 390.355376983   right_meanx: 1089.16668693    diff: 698.811309947
+Frame # 1174
+detected new curve left_curverad: 1706.98224571  right_curverad: 467.551998243
+Frame # 1175
+detected curve left_curverad: 1468.14568544  right_curverad: 567.102009116
+left_meanx: 399.454031881   right_meanx: 1120.82224646    diff: 721.368214575
+Frame # 1176
+detected new curve left_curverad: 1452.98629464  right_curverad: 462.318376405
+Frame # 1177
+detected curve left_curverad: 1696.28564014  right_curverad: 547.564994639
+left_meanx: 403.338739001   right_meanx: 1104.58826979    diff: 701.249530794
+Frame # 1178
+detected new curve left_curverad: 1955.45904723  right_curverad: 532.4403093
+Frame # 1179
+detected curve left_curverad: 2204.90934742  right_curverad: 791.064069697
+left_meanx: 402.268292683   right_meanx: 1095.98771186    diff: 693.719419181
+Frame # 1180
+detected new curve left_curverad: 2435.16922681  right_curverad: 839.900543589
+Frame # 1181
+detected curve left_curverad: 2795.58786785  right_curverad: 952.511798657
+left_meanx: 400.986442071   right_meanx: 1091.34193757    diff: 690.355495504
+Frame # 1182
+detected new curve left_curverad: 3205.59763955  right_curverad: 902.744683264
+Frame # 1183
+detected curve left_curverad: 3559.16644013  right_curverad: 945.049354545
+left_meanx: 401.316325274   right_meanx: 1076.93661688    diff: 675.620291601
+Frame # 1184
+detected new curve left_curverad: 3069.11688153  right_curverad: 708.103123376
+Frame # 1185
+detected curve left_curverad: 2146.09829975  right_curverad: 701.398148209
+left_meanx: 411.264276496   right_meanx: 1120.81601124    diff: 709.55173474
+Frame # 1186
+detected new curve left_curverad: 1792.20405996  right_curverad: 405.828066476
+Frame # 1187
+detected curve left_curverad: 1515.07436788  right_curverad: 465.427513485
+left_meanx: 411.378881988   right_meanx: 1141.82977431    diff: 730.450892318
+Frame # 1188
+detected new curve left_curverad: 1271.19886006  right_curverad: 412.577667484
+Frame # 1189
+detected curve left_curverad: 1306.03408173  right_curverad: 469.717148385
+left_meanx: 405.841839555   right_meanx: 1128.59692029    diff: 722.755080735
+Frame # 1190
+detected new curve left_curverad: 1087.2956513  right_curverad: 385.722836017
+Frame # 1191
+detected curve left_curverad: 1124.78408131  right_curverad: 667.517273184
+left_meanx: 409.912721133   right_meanx: 1105.11873193    diff: 695.206010798
+Frame # 1192
+detected new curve left_curverad: 1089.6743652  right_curverad: 674.118273681
+Frame # 1193
+detected curve left_curverad: 1085.94691919  right_curverad: 657.453507124
+detected adjusted curve left_curverad: 1087.80720071  right_curverad: 665.68147931
+Frame # 1194
+detected curve left_curverad: 1037.914176  right_curverad: 916.396952635
+detected adjusted curve left_curverad: 1070.65091681  right_curverad: 732.487635746
+Frame # 1195
+detected curve left_curverad: 979.217738653  right_curverad: 912.905160095
+left_meanx: 414.655244902   right_meanx: 1097.53772966    diff: 682.882484757
+Frame # 1196
+detected new curve left_curverad: 932.201811156  right_curverad: 576.294129542
+Frame # 1197
+detected curve left_curverad: 936.092578327  right_curverad: 605.216248531
+left_meanx: 415.324464319   right_meanx: 1122.23986609    diff: 706.915401769
+Frame # 1198
+detected new curve left_curverad: 987.280330061  right_curverad: 461.496880478
+Frame # 1199
+detected curve left_curverad: 1206.62205068  right_curverad: 586.85475801
+left_meanx: 398.587938794   right_meanx: 1143.67234896    diff: 745.084410166
+Frame # 1200
+detected new curve left_curverad: 1320.90339559  right_curverad: 559.999783188
+Frame # 1201
+detected curve left_curverad: 1358.10681782  right_curverad: 490.773681614
+left_meanx: 397.968839327   right_meanx: 1133.36712208    diff: 735.398282754
+Frame # 1202
+detected new curve left_curverad: 1556.50581153  right_curverad: 455.98256632
+Frame # 1203
+detected curve left_curverad: 1595.78916865  right_curverad: 477.774871911
+left_meanx: 401.49168477   right_meanx: 1112.86480447    diff: 711.373119699
+Frame # 1204
+detected new curve left_curverad: 1341.12102812  right_curverad: 643.868271013
+Frame # 1205
+detected curve left_curverad: 1221.67852243  right_curverad: 586.019774451
+left_meanx: 411.943957893   right_meanx: 1091.29537194    diff: 679.351414048
+Frame # 1206
+detected new curve left_curverad: 961.221850676  right_curverad: 664.894650311
+Frame # 1207
+detected curve left_curverad: 895.303905147  right_curverad: 572.271766644
+left_meanx: 430.100549181   right_meanx: 1124.36827615    diff: 694.267726973
+Frame # 1208
+detected new curve left_curverad: 796.14891908  right_curverad: 388.161898593
+Frame # 1209
+detected curve left_curverad: 786.265402068  right_curverad: 347.841652538
+left_meanx: 444.602578602   right_meanx: 1134.35007079    diff: 689.747492186
+Frame # 1210
+detected new curve left_curverad: 808.01596504  right_curverad: 345.992223543
+Frame # 1211
+detected curve left_curverad: 832.641769902  right_curverad: 344.712409204
+left_meanx: 442.89592299   right_meanx: 1122.48492617    diff: 679.589003179
+Frame # 1212
+detected new curve left_curverad: 839.225165458  right_curverad: 341.015652299
+Frame # 1213
+detected curve left_curverad: 1017.91865785  right_curverad: 369.564536805
+left_meanx: 434.436195986   right_meanx: 1124.50731506    diff: 690.071119077
+Frame # 1214
+detected new curve left_curverad: 1099.04603921  right_curverad: 589.0171063
+Frame # 1215
+detected curve left_curverad: 1206.24560579  right_curverad: 605.858514839
+detected adjusted curve left_curverad: 1150.15311893  right_curverad: 597.31890299
+Frame # 1216
+detected curve left_curverad: 1323.73376043  right_curverad: 615.037308415
+detected adjusted curve left_curverad: 1202.72444996  right_curverad: 603.10980726
+Frame # 1217
+detected curve left_curverad: 1484.15868369  right_curverad: 758.920722374
+detected adjusted curve left_curverad: 1262.58009083  right_curverad: 635.743989074
+Frame # 1218
+detected curve left_curverad: 1363.54426826  right_curverad: 881.721268156
+left_meanx: 433.889196104   right_meanx: 1123.81749149    diff: 689.928295386
+Frame # 1219
+detected new curve left_curverad: 1275.06709683  right_curverad: 465.195596815
+Frame # 1220
+detected curve left_curverad: 1061.25002756  right_curverad: 500.628224653
+left_meanx: 440.553167097   right_meanx: 1170.05052431    diff: 729.497357212
+Frame # 1221
+detected new curve left_curverad: 1091.12664866  right_curverad: 416.660327801
+Frame # 1222
+detected curve left_curverad: 1165.44739615  right_curverad: 435.11442092
+left_meanx: 442.408113532   right_meanx: 1155.69649974    diff: 713.288386208
+Frame # 1223
+detected new curve left_curverad: 1311.21448854  right_curverad: 370.239374446
+Frame # 1224
+detected curve left_curverad: 1561.00661365  right_curverad: 525.980606797
+left_meanx: 447.712400681   right_meanx: 1131.5255395    diff: 683.813138816
+Frame # 1225
+detected new curve left_curverad: 1507.05141211  right_curverad: 470.446642358
+Frame # 1226
+detected curve left_curverad: 1790.85223127  right_curverad: 507.874455444
+detected adjusted curve left_curverad: 1636.73930192  right_curverad: 488.442302678
+Frame # 1227
+detected curve left_curverad: 2204.20452028  right_curverad: 506.432290687
+left_meanx: 432.805984364   right_meanx: 1111.71280679    diff: 678.906822429
+Frame # 1228
+detected new curve left_curverad: 2149.15420858  right_curverad: 512.988760024
+Frame # 1229
+detected curve left_curverad: 1788.95857126  right_curverad: 479.832651845
+left_meanx: 423.045454545   right_meanx: 1111.95395948    diff: 688.908504939
+Frame # 1230
+detected new curve left_curverad: 1566.63750241  right_curverad: 494.280979299
+Frame # 1231
+detected curve left_curverad: 1174.06600728  right_curverad: 591.105976854
+left_meanx: 427.452536431   right_meanx: 1162.87180219    diff: 735.419265756
+Frame # 1232
+detected new curve left_curverad: 1275.56076412  right_curverad: 493.663963241
+Frame # 1233
+detected curve left_curverad: 1740.24494185  right_curverad: 508.070124222
+left_meanx: 432.295716193   right_meanx: 1146.88362406    diff: 714.587907863
+Frame # 1234
+detected new curve left_curverad: 2044.57943313  right_curverad: 492.939906151
+Frame # 1235
+detected curve left_curverad: 2473.61022678  right_curverad: 549.53190083
+left_meanx: 428.280029711   right_meanx: 1131.67278957    diff: 703.392759857
+Frame # 1236
+detected new curve left_curverad: 3147.71380721  right_curverad: 985.769159806
+Frame # 1237
+detected curve left_curverad: 5730.54193632  right_curverad: 1180.94847379
+left_meanx: 421.413302718   right_meanx: 1129.71160115    diff: 708.298298432
+Frame # 1238
+detected new curve left_curverad: 7710.96897906  right_curverad: 1043.4527305
+Frame # 1239
+detected curve left_curverad: 7044.98087957  right_curverad: 1054.59415085
+left_meanx: 422.019640519   right_meanx: 1101.87586293    diff: 679.856222416
+Frame # 1240
+detected new curve left_curverad: 5045.64749657  right_curverad: 1348.39029526
+Frame # 1241
+detected curve left_curverad: 3982.36730753  right_curverad: 1371.45724005
+left_meanx: 421.715811626   right_meanx: 1133.06400335    diff: 711.34819172
+Frame # 1242
+detected new curve left_curverad: 3751.79973263  right_curverad: 716.646794676
+Frame # 1243
+detected curve left_curverad: 3219.06920574  right_curverad: 1078.06041936
+left_meanx: 415.933521354   right_meanx: 1147.25410097    diff: 731.320579618
+Frame # 1244
+detected new curve left_curverad: 3419.0216299  right_curverad: 752.035268437
+Frame # 1245
+detected curve left_curverad: 4139.20303539  right_curverad: 906.038696004
+left_meanx: 413.740365872   right_meanx: 1125.74517821    diff: 712.004812334
+Frame # 1246
+detected new curve left_curverad: 4054.43456773  right_curverad: 640.631362707
+Frame # 1247
+detected curve left_curverad: 3236.43527319  right_curverad: 1336.45853557
+left_meanx: 418.744249348   right_meanx: 1101.67788925    diff: 682.933639905
+Frame # 1248
+detected new curve left_curverad: 4596.0159994  right_curverad: 1847.9783112
+Frame # 1249
+detected curve left_curverad: 4296.93547978  right_curverad: 2154.82858427
+detected adjusted curve left_curverad: 4441.44653314  right_curverad: 1989.64040247
+Frame # 1250
+detected curve left_curverad: 4234.24795864  right_curverad: 10247.1618582
+detected bad curve left_curverad: 4234.24795864  right_curverad: 10247.1618582
+Frame # 1251
+detected new curve left_curverad: 5692.3516952  right_curverad: 3034.3741701
+Frame # 1252
+detected curve left_curverad: 4934.34059139  right_curverad: 3751.04992497
+left_meanx: 405.888509254   right_meanx: 1105.33704842    diff: 699.448539171
+Frame # 1253
+detected new curve left_curverad: 4702.92727384  right_curverad: 1765.30004527
+Frame # 1254
+detected curve left_curverad: 3378.57039299  right_curverad: 2483.35489579
+left_meanx: 397.54535156   right_meanx: 1110.23022944    diff: 712.684877881
+Frame # 1255
+detected new curve left_curverad: 3746.71302157  right_curverad: 1030.72018982
+Frame # 1256
+detected curve left_curverad: 4077.61207106  right_curverad: 713.171195129
+left_meanx: 392.635740523   right_meanx: 1089.94947719    diff: 697.313736667
+Frame # 1257
+detected new curve left_curverad: 4726.34944989  right_curverad: 1373.9027556
+Frame # 1258
+detected curve left_curverad: 4605.92434136  right_curverad: 1368.89195245
+left_meanx: 389.262168927   right_meanx: 1069.72530433    diff: 680.463135404
+Frame # 1259
+detected new curve left_curverad: 8535.20122577  right_curverad: 1388.53493962
+Frame # 1260
+detected curve left_curverad: 15506.4952265  right_curverad: 1456.32751908
+left_meanx: 377.019225603   right_meanx: 1063.11446568    diff: 686.095240079
+[MoviePy] Done.
+[MoviePy] >>>> Video ready: project_video_output.mp4 
+
+Wall time: 2min 54s
